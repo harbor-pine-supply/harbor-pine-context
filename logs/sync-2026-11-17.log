@@ -1,0 +1,803 @@
+2026-11-17T02:00:37Z DEBUG sync order=HP-1000 payload={"lines":5,"skus":["SKU-4577","SKU-8405"],"subtotalCents":6634,"retry":0,"trace":"11d04e3a2902c871"}
+2026-11-17T02:00:37Z INFO sync order=HP-1000 warehouse=WH-19 items=5 status=ok ms=462
+2026-11-17T02:00:37Z DEBUG sync order=HP-1001 payload={"lines":2,"skus":["SKU-4808","SKU-1803"],"subtotalCents":9932,"retry":0,"trace":"1176c725462ef64"}
+2026-11-17T02:00:37Z INFO sync order=HP-1001 warehouse=WH-09 items=1 status=ok ms=463
+2026-11-17T02:01:10Z DEBUG sync order=HP-1002 payload={"lines":4,"skus":["SKU-8021","SKU-5077"],"subtotalCents":15014,"retry":0,"trace":"13953197c1b432"}
+2026-11-17T02:01:10Z INFO sync order=HP-1002 warehouse=WH-22 items=4 status=ok ms=415
+2026-11-17T02:01:09Z DEBUG sync order=HP-1003 payload={"lines":1,"skus":["SKU-7717","SKU-9258"],"subtotalCents":7834,"retry":0,"trace":"2dddb5202c10543e"}
+2026-11-17T02:01:09Z INFO sync order=HP-1003 warehouse=WH-31 items=2 status=ok ms=215
+2026-11-17T02:02:06Z DEBUG sync order=HP-1004 payload={"lines":2,"skus":["SKU-3764","SKU-6523"],"subtotalCents":8266,"retry":0,"trace":"49abb752be7d6f1"}
+2026-11-17T02:02:06Z INFO sync order=HP-1004 warehouse=WH-54 items=1 status=ok ms=265
+2026-11-17T02:03:19Z DEBUG sync order=HP-1005 payload={"lines":3,"skus":["SKU-6705","SKU-9973"],"subtotalCents":18151,"retry":0,"trace":"934277f3588977f"}
+2026-11-17T02:03:19Z INFO sync order=HP-1005 warehouse=WH-46 items=4 status=ok ms=97
+2026-11-17T02:03:10Z DEBUG sync order=HP-1006 payload={"lines":3,"skus":["SKU-6419","SKU-7055"],"subtotalCents":1887,"retry":0,"trace":"37cc387e1c5f9662"}
+2026-11-17T02:03:10Z INFO sync order=HP-1006 warehouse=WH-17 items=1 status=ok ms=372
+2026-11-17T02:04:11Z DEBUG sync order=HP-1007 payload={"lines":3,"skus":["SKU-7181","SKU-9739"],"subtotalCents":9508,"retry":0,"trace":"2e7f36fa21a3f5f2"}
+2026-11-17T02:04:11Z INFO sync order=HP-1007 warehouse=WH-48 items=3 status=ok ms=403
+2026-11-17T02:04:21Z DEBUG sync order=HP-1008 payload={"lines":5,"skus":["SKU-4428","SKU-7668"],"subtotalCents":19244,"retry":0,"trace":"262f49c3e95a02d"}
+2026-11-17T02:04:21Z INFO sync order=HP-1008 warehouse=WH-31 items=2 status=ok ms=447
+2026-11-17T02:05:18Z DEBUG sync order=HP-1009 payload={"lines":3,"skus":["SKU-2719","SKU-6175"],"subtotalCents":14020,"retry":0,"trace":"278a98231a594d9a"}
+2026-11-17T02:05:18Z INFO sync order=HP-1009 warehouse=WH-11 items=1 status=ok ms=441
+2026-11-17T02:06:53Z DEBUG sync order=HP-1010 payload={"lines":4,"skus":["SKU-1689","SKU-6542"],"subtotalCents":4080,"retry":0,"trace":"312bc33f12a3ca6e"}
+2026-11-17T02:06:53Z INFO sync order=HP-1010 warehouse=WH-15 items=2 status=ok ms=394
+2026-11-17T02:06:15Z DEBUG sync order=HP-1011 payload={"lines":1,"skus":["SKU-9601","SKU-7225"],"subtotalCents":6408,"retry":0,"trace":"18716a4a35ce1157"}
+2026-11-17T02:06:15Z INFO sync order=HP-1011 warehouse=WH-49 items=2 status=ok ms=145
+2026-11-17T02:07:58Z DEBUG sync order=HP-1012 payload={"lines":3,"skus":["SKU-6550","SKU-5966"],"subtotalCents":11073,"retry":0,"trace":"1ab420822c62089"}
+2026-11-17T02:07:58Z INFO sync order=HP-1012 warehouse=WH-48 items=3 status=ok ms=366
+2026-11-17T02:07:45Z DEBUG sync order=HP-1013 payload={"lines":1,"skus":["SKU-2899","SKU-4840"],"subtotalCents":13887,"retry":0,"trace":"19c692ec31a0b59a"}
+2026-11-17T02:07:45Z INFO sync order=HP-1013 warehouse=WH-19 items=4 status=ok ms=215
+2026-11-17T02:08:57Z DEBUG sync order=HP-1014 payload={"lines":2,"skus":["SKU-6193","SKU-9099"],"subtotalCents":11028,"retry":0,"trace":"1ae609ca3a152d75"}
+2026-11-17T02:08:57Z INFO sync order=HP-1014 warehouse=WH-30 items=1 status=ok ms=349
+2026-11-17T02:09:04Z DEBUG sync order=HP-1015 payload={"lines":2,"skus":["SKU-4195","SKU-6397"],"subtotalCents":2646,"retry":0,"trace":"b7f902211e9b9bc"}
+2026-11-17T02:09:04Z INFO sync order=HP-1015 warehouse=WH-29 items=4 status=ok ms=115
+2026-11-17T02:09:27Z DEBUG sync order=HP-1016 payload={"lines":2,"skus":["SKU-9675","SKU-9608"],"subtotalCents":7599,"retry":0,"trace":"25f877c62dc08789"}
+2026-11-17T02:09:27Z INFO sync order=HP-1016 warehouse=WH-46 items=3 status=ok ms=321
+2026-11-17T02:10:52Z DEBUG sync order=HP-1017 payload={"lines":3,"skus":["SKU-6496","SKU-9645"],"subtotalCents":19950,"retry":0,"trace":"30bde72e27a9604d"}
+2026-11-17T02:10:52Z INFO sync order=HP-1017 warehouse=WH-02 items=5 status=ok ms=313
+2026-11-17T02:10:21Z DEBUG sync order=HP-1018 payload={"lines":5,"skus":["SKU-8921","SKU-8475"],"subtotalCents":13271,"retry":0,"trace":"1ea585432c52d192"}
+2026-11-17T02:10:21Z INFO sync order=HP-1018 warehouse=WH-38 items=6 status=ok ms=236
+2026-11-17T02:11:18Z DEBUG sync order=HP-1019 payload={"lines":5,"skus":["SKU-3226","SKU-4769"],"subtotalCents":6267,"retry":0,"trace":"1355183febc21ab"}
+2026-11-17T02:11:18Z INFO sync order=HP-1019 warehouse=WH-33 items=4 status=ok ms=129
+2026-11-17T02:12:36Z DEBUG sync order=HP-1020 payload={"lines":1,"skus":["SKU-6187","SKU-2948"],"subtotalCents":6420,"retry":0,"trace":"199b09eb20b271cb"}
+2026-11-17T02:12:36Z INFO sync order=HP-1020 warehouse=WH-59 items=2 status=ok ms=413
+2026-11-17T02:12:45Z DEBUG sync order=HP-1021 payload={"lines":5,"skus":["SKU-4048","SKU-9196"],"subtotalCents":7705,"retry":0,"trace":"1c4749d8260d0950"}
+2026-11-17T02:12:45Z INFO sync order=HP-1021 warehouse=WH-14 items=6 status=ok ms=446
+2026-11-17T02:13:39Z DEBUG sync order=HP-1022 payload={"lines":4,"skus":["SKU-4820","SKU-6082"],"subtotalCents":11653,"retry":0,"trace":"303f9270230d53a3"}
+2026-11-17T02:13:39Z INFO sync order=HP-1022 warehouse=WH-28 items=4 status=ok ms=407
+2026-11-17T02:13:28Z DEBUG sync order=HP-1023 payload={"lines":4,"skus":["SKU-8807","SKU-7702"],"subtotalCents":11763,"retry":0,"trace":"edb91bfbaec394"}
+2026-11-17T02:13:28Z INFO sync order=HP-1023 warehouse=WH-18 items=6 status=ok ms=102
+2026-11-17T02:14:15Z DEBUG sync order=HP-1024 payload={"lines":3,"skus":["SKU-5488","SKU-6556"],"subtotalCents":16553,"retry":0,"trace":"3067640c46601"}
+2026-11-17T02:14:15Z INFO sync order=HP-1024 warehouse=WH-09 items=4 status=ok ms=115
+2026-11-17T02:15:24Z DEBUG sync order=HP-1025 payload={"lines":2,"skus":["SKU-1250","SKU-5206"],"subtotalCents":3550,"retry":0,"trace":"38b8c136217d1eb8"}
+2026-11-17T02:15:24Z INFO sync order=HP-1025 warehouse=WH-41 items=4 status=ok ms=255
+2026-11-17T02:15:59Z DEBUG sync order=HP-1026 payload={"lines":5,"skus":["SKU-7453","SKU-9180"],"subtotalCents":613,"retry":0,"trace":"104bc8723957f57d"}
+2026-11-17T02:15:59Z INFO sync order=HP-1026 warehouse=WH-11 items=1 status=ok ms=276
+2026-11-17T02:16:58Z DEBUG sync order=HP-1027 payload={"lines":3,"skus":["SKU-8654","SKU-2595"],"subtotalCents":11607,"retry":0,"trace":"3ffefda27ea4678"}
+2026-11-17T02:16:58Z INFO sync order=HP-1027 warehouse=WH-12 items=1 status=ok ms=237
+2026-11-17T02:16:53Z DEBUG sync order=HP-1028 payload={"lines":2,"skus":["SKU-4891","SKU-2099"],"subtotalCents":10366,"retry":0,"trace":"300415fbea145be"}
+2026-11-17T02:16:53Z INFO sync order=HP-1028 warehouse=WH-35 items=2 status=ok ms=170
+2026-11-17T02:17:22Z DEBUG sync order=HP-1029 payload={"lines":1,"skus":["SKU-2969","SKU-4351"],"subtotalCents":2818,"retry":0,"trace":"521acab106c3ce2"}
+2026-11-17T02:17:22Z INFO sync order=HP-1029 warehouse=WH-39 items=2 status=ok ms=247
+2026-11-17T02:18:27Z DEBUG sync order=HP-1030 payload={"lines":5,"skus":["SKU-8897","SKU-1891"],"subtotalCents":7375,"retry":0,"trace":"3a7c82141b13af54"}
+2026-11-17T02:18:27Z INFO sync order=HP-1030 warehouse=WH-04 items=4 status=ok ms=451
+2026-11-17T02:18:42Z DEBUG sync order=HP-1031 payload={"lines":3,"skus":["SKU-4306","SKU-1523"],"subtotalCents":7660,"retry":0,"trace":"2790ef4cffc3f0"}
+2026-11-17T02:18:42Z INFO sync order=HP-1031 warehouse=WH-40 items=3 status=ok ms=114
+2026-11-17T02:19:48Z DEBUG sync order=HP-1032 payload={"lines":2,"skus":["SKU-8404","SKU-5734"],"subtotalCents":1449,"retry":0,"trace":"2f7758de20bd1fbc"}
+2026-11-17T02:19:48Z INFO sync order=HP-1032 warehouse=WH-51 items=5 status=ok ms=121
+2026-11-17T02:19:59Z DEBUG sync order=HP-1033 payload={"lines":2,"skus":["SKU-1221","SKU-8703"],"subtotalCents":20036,"retry":0,"trace":"2d54ff302474497"}
+2026-11-17T02:19:59Z INFO sync order=HP-1033 warehouse=WH-04 items=3 status=ok ms=352
+2026-11-17T02:20:30Z DEBUG sync order=HP-1034 payload={"lines":5,"skus":["SKU-7317","SKU-8614"],"subtotalCents":17016,"retry":0,"trace":"6635a7a59f32a"}
+2026-11-17T02:20:30Z INFO sync order=HP-1034 warehouse=WH-40 items=1 status=ok ms=436
+2026-11-17T02:21:32Z DEBUG sync order=HP-1035 payload={"lines":4,"skus":["SKU-2450","SKU-9265"],"subtotalCents":13271,"retry":0,"trace":"17e223642583bbd8"}
+2026-11-17T02:21:32Z INFO sync order=HP-1035 warehouse=WH-52 items=2 status=ok ms=295
+2026-11-17T02:21:43Z DEBUG sync order=HP-1036 payload={"lines":3,"skus":["SKU-5737","SKU-6986"],"subtotalCents":745,"retry":0,"trace":"23896c3a172a48d"}
+2026-11-17T02:21:43Z INFO sync order=HP-1036 warehouse=WH-19 items=1 status=ok ms=335
+2026-11-17T02:22:21Z DEBUG sync order=HP-1037 payload={"lines":4,"skus":["SKU-4195","SKU-6693"],"subtotalCents":13942,"retry":0,"trace":"19e610582fe91d4e"}
+2026-11-17T02:22:21Z INFO sync order=HP-1037 warehouse=WH-49 items=2 status=ok ms=292
+2026-11-17T02:22:31Z DEBUG sync order=HP-1038 payload={"lines":4,"skus":["SKU-3989","SKU-4542"],"subtotalCents":17512,"retry":0,"trace":"15f0149f10406922"}
+2026-11-17T02:22:31Z INFO sync order=HP-1038 warehouse=WH-57 items=5 status=ok ms=428
+2026-11-17T02:23:57Z DEBUG sync order=HP-1039 payload={"lines":1,"skus":["SKU-8588","SKU-7549"],"subtotalCents":6849,"retry":0,"trace":"170de716e478d0e"}
+2026-11-17T02:23:57Z INFO sync order=HP-1039 warehouse=WH-24 items=4 status=ok ms=307
+2026-11-17T02:24:41Z DEBUG sync order=HP-1040 payload={"lines":4,"skus":["SKU-1712","SKU-7758"],"subtotalCents":10035,"retry":0,"trace":"12a32ca23deb88d"}
+2026-11-17T02:24:41Z INFO sync order=HP-1040 warehouse=WH-10 items=1 status=ok ms=323
+2026-11-17T02:24:44Z DEBUG sync order=HP-1041 payload={"lines":1,"skus":["SKU-8179","SKU-8660"],"subtotalCents":11042,"retry":0,"trace":"bc28d0d35a79d95"}
+2026-11-17T02:24:44Z INFO sync order=HP-1041 warehouse=WH-39 items=2 status=ok ms=211
+2026-11-17T02:25:36Z DEBUG sync order=HP-1042 payload={"lines":1,"skus":["SKU-8477","SKU-3424"],"subtotalCents":13417,"retry":0,"trace":"353df3463411c856"}
+2026-11-17T02:25:36Z WARN sync order=HP-1042 warehouse=WH-27 slow response, retrying
+2026-11-17T02:25:36Z ERROR sync order=HP-1042 warehouse=WH-27 status=failed reason="timeout after 30000 ms" attempt=3/3
+2026-11-17T02:25:18Z DEBUG sync order=HP-1043 payload={"lines":2,"skus":["SKU-3683","SKU-6733"],"subtotalCents":7220,"retry":0,"trace":"3900993e413d968"}
+2026-11-17T02:25:18Z INFO sync order=HP-1043 warehouse=WH-01 items=4 status=ok ms=85
+2026-11-17T02:26:51Z DEBUG sync order=HP-1044 payload={"lines":5,"skus":["SKU-6208","SKU-5295"],"subtotalCents":5492,"retry":0,"trace":"344ac8a2211d5786"}
+2026-11-17T02:26:51Z INFO sync order=HP-1044 warehouse=WH-49 items=3 status=ok ms=269
+2026-11-17T02:27:03Z DEBUG sync order=HP-1045 payload={"lines":5,"skus":["SKU-5577","SKU-9127"],"subtotalCents":14887,"retry":0,"trace":"24a90fe719ece9d8"}
+2026-11-17T02:27:03Z INFO sync order=HP-1045 warehouse=WH-21 items=1 status=ok ms=334
+2026-11-17T02:27:00Z DEBUG sync order=HP-1046 payload={"lines":1,"skus":["SKU-8424","SKU-9255"],"subtotalCents":14914,"retry":0,"trace":"38a7f835b47ede"}
+2026-11-17T02:27:00Z INFO sync order=HP-1046 warehouse=WH-57 items=4 status=ok ms=211
+2026-11-17T02:28:13Z DEBUG sync order=HP-1047 payload={"lines":2,"skus":["SKU-7689","SKU-9313"],"subtotalCents":6690,"retry":0,"trace":"36457b9613c6e48a"}
+2026-11-17T02:28:13Z INFO sync order=HP-1047 warehouse=WH-25 items=1 status=ok ms=191
+2026-11-17T02:28:40Z DEBUG sync order=HP-1048 payload={"lines":2,"skus":["SKU-5005","SKU-3859"],"subtotalCents":11029,"retry":0,"trace":"9efb52615ee26dd"}
+2026-11-17T02:28:40Z INFO sync order=HP-1048 warehouse=WH-31 items=4 status=ok ms=286
+2026-11-17T02:29:00Z DEBUG sync order=HP-1049 payload={"lines":1,"skus":["SKU-5633","SKU-5684"],"subtotalCents":17962,"retry":0,"trace":"217171717a9fabb"}
+2026-11-17T02:29:00Z INFO sync order=HP-1049 warehouse=WH-38 items=4 status=ok ms=106
+2026-11-17T02:30:38Z DEBUG sync order=HP-1050 payload={"lines":4,"skus":["SKU-6609","SKU-3950"],"subtotalCents":1377,"retry":0,"trace":"c93588e3325ffa6"}
+2026-11-17T02:30:38Z INFO sync order=HP-1050 warehouse=WH-54 items=5 status=ok ms=266
+2026-11-17T02:30:49Z DEBUG sync order=HP-1051 payload={"lines":5,"skus":["SKU-6282","SKU-5059"],"subtotalCents":14397,"retry":0,"trace":"1eb6a9a511035269"}
+2026-11-17T02:30:49Z INFO sync order=HP-1051 warehouse=WH-31 items=5 status=ok ms=447
+2026-11-17T02:31:20Z DEBUG sync order=HP-1052 payload={"lines":4,"skus":["SKU-9373","SKU-7848"],"subtotalCents":6301,"retry":0,"trace":"2f6977ae34331e09"}
+2026-11-17T02:31:20Z INFO sync order=HP-1052 warehouse=WH-50 items=5 status=ok ms=227
+2026-11-17T02:31:34Z DEBUG sync order=HP-1053 payload={"lines":1,"skus":["SKU-7030","SKU-7304"],"subtotalCents":1303,"retry":0,"trace":"5ac7062142cadf"}
+2026-11-17T02:31:34Z INFO sync order=HP-1053 warehouse=WH-38 items=5 status=ok ms=300
+2026-11-17T02:32:42Z DEBUG sync order=HP-1054 payload={"lines":1,"skus":["SKU-4807","SKU-8881"],"subtotalCents":18324,"retry":0,"trace":"301bec7a1d775ad2"}
+2026-11-17T02:32:42Z INFO sync order=HP-1054 warehouse=WH-07 items=1 status=ok ms=245
+2026-11-17T02:33:55Z DEBUG sync order=HP-1055 payload={"lines":1,"skus":["SKU-2243","SKU-9151"],"subtotalCents":833,"retry":0,"trace":"182c64f412bee5b6"}
+2026-11-17T02:33:55Z INFO sync order=HP-1055 warehouse=WH-12 items=4 status=ok ms=426
+2026-11-17T02:33:39Z DEBUG sync order=HP-1056 payload={"lines":5,"skus":["SKU-2224","SKU-3337"],"subtotalCents":3220,"retry":0,"trace":"368792835535b81"}
+2026-11-17T02:33:39Z INFO sync order=HP-1056 warehouse=WH-45 items=2 status=ok ms=461
+2026-11-17T02:34:15Z DEBUG sync order=HP-1057 payload={"lines":5,"skus":["SKU-5489","SKU-8436"],"subtotalCents":19709,"retry":0,"trace":"11780aa42e43b157"}
+2026-11-17T02:34:15Z INFO sync order=HP-1057 warehouse=WH-59 items=3 status=ok ms=306
+2026-11-17T02:34:59Z DEBUG sync order=HP-1058 payload={"lines":1,"skus":["SKU-9980","SKU-7885"],"subtotalCents":4048,"retry":0,"trace":"117e341e382a7486"}
+2026-11-17T02:34:59Z INFO sync order=HP-1058 warehouse=WH-23 items=2 status=ok ms=221
+2026-11-17T02:35:36Z DEBUG sync order=HP-1059 payload={"lines":2,"skus":["SKU-3899","SKU-9392"],"subtotalCents":15352,"retry":0,"trace":"23a116832b532977"}
+2026-11-17T02:35:36Z INFO sync order=HP-1059 warehouse=WH-46 items=2 status=ok ms=191
+2026-11-17T02:36:45Z DEBUG sync order=HP-1060 payload={"lines":4,"skus":["SKU-8987","SKU-2285"],"subtotalCents":16691,"retry":0,"trace":"237a5cf82da042cb"}
+2026-11-17T02:36:45Z INFO sync order=HP-1060 warehouse=WH-49 items=6 status=ok ms=455
+2026-11-17T02:36:02Z DEBUG sync order=HP-1061 payload={"lines":1,"skus":["SKU-7708","SKU-7010"],"subtotalCents":7336,"retry":0,"trace":"43ba8a82d2e9c14"}
+2026-11-17T02:36:02Z INFO sync order=HP-1061 warehouse=WH-17 items=3 status=ok ms=458
+2026-11-17T02:37:01Z DEBUG sync order=HP-1062 payload={"lines":5,"skus":["SKU-2839","SKU-4439"],"subtotalCents":14456,"retry":0,"trace":"5965e1447e0d02"}
+2026-11-17T02:37:01Z INFO sync order=HP-1062 warehouse=WH-05 items=1 status=ok ms=463
+2026-11-17T02:37:22Z DEBUG sync order=HP-1063 payload={"lines":5,"skus":["SKU-5320","SKU-2191"],"subtotalCents":10183,"retry":0,"trace":"11f447ef287c30c1"}
+2026-11-17T02:37:22Z INFO sync order=HP-1063 warehouse=WH-46 items=3 status=ok ms=372
+2026-11-17T02:38:49Z DEBUG sync order=HP-1064 payload={"lines":1,"skus":["SKU-5396","SKU-1162"],"subtotalCents":7317,"retry":0,"trace":"25365978331050d9"}
+2026-11-17T02:38:49Z INFO sync order=HP-1064 warehouse=WH-49 items=5 status=ok ms=400
+2026-11-17T02:39:54Z DEBUG sync order=HP-1065 payload={"lines":5,"skus":["SKU-1717","SKU-7855"],"subtotalCents":7956,"retry":0,"trace":"21d508271c61999f"}
+2026-11-17T02:39:54Z INFO sync order=HP-1065 warehouse=WH-54 items=4 status=ok ms=111
+2026-11-17T02:39:29Z DEBUG sync order=HP-1066 payload={"lines":2,"skus":["SKU-8140","SKU-8550"],"subtotalCents":4271,"retry":0,"trace":"3328fd1c25956bcf"}
+2026-11-17T02:39:29Z INFO sync order=HP-1066 warehouse=WH-18 items=5 status=ok ms=442
+2026-11-17T02:40:31Z DEBUG sync order=HP-1067 payload={"lines":1,"skus":["SKU-1811","SKU-3180"],"subtotalCents":9391,"retry":0,"trace":"2ba03e98c7ad72c"}
+2026-11-17T02:40:31Z INFO sync order=HP-1067 warehouse=WH-48 items=5 status=ok ms=204
+2026-11-17T02:40:33Z DEBUG sync order=HP-1068 payload={"lines":2,"skus":["SKU-8308","SKU-1132"],"subtotalCents":13477,"retry":0,"trace":"a61b7fefb45e2d"}
+2026-11-17T02:40:33Z INFO sync order=HP-1068 warehouse=WH-39 items=2 status=ok ms=356
+2026-11-17T02:41:54Z DEBUG sync order=HP-1069 payload={"lines":2,"skus":["SKU-1221","SKU-6600"],"subtotalCents":11897,"retry":0,"trace":"1270b5079b58be1"}
+2026-11-17T02:41:54Z INFO sync order=HP-1069 warehouse=WH-49 items=5 status=ok ms=229
+2026-11-17T02:42:57Z DEBUG sync order=HP-1070 payload={"lines":2,"skus":["SKU-3703","SKU-9270"],"subtotalCents":19709,"retry":0,"trace":"2380eb8c1fe9781"}
+2026-11-17T02:42:57Z INFO sync order=HP-1070 warehouse=WH-51 items=6 status=ok ms=314
+2026-11-17T02:42:54Z DEBUG sync order=HP-1071 payload={"lines":3,"skus":["SKU-2413","SKU-6180"],"subtotalCents":17267,"retry":0,"trace":"1d668c1f3b2f34a0"}
+2026-11-17T02:42:54Z INFO sync order=HP-1071 warehouse=WH-11 items=2 status=ok ms=392
+2026-11-17T02:43:57Z DEBUG sync order=HP-1072 payload={"lines":2,"skus":["SKU-5802","SKU-5155"],"subtotalCents":1669,"retry":0,"trace":"2bf56e49f7bad88"}
+2026-11-17T02:43:57Z INFO sync order=HP-1072 warehouse=WH-54 items=3 status=ok ms=127
+2026-11-17T02:43:06Z DEBUG sync order=HP-1073 payload={"lines":4,"skus":["SKU-5940","SKU-4594"],"subtotalCents":18488,"retry":0,"trace":"2c5e011715b4f734"}
+2026-11-17T02:43:06Z INFO sync order=HP-1073 warehouse=WH-50 items=4 status=ok ms=261
+2026-11-17T02:44:54Z DEBUG sync order=HP-1074 payload={"lines":2,"skus":["SKU-5267","SKU-5617"],"subtotalCents":3800,"retry":0,"trace":"c5517b61d265ca2"}
+2026-11-17T02:44:54Z INFO sync order=HP-1074 warehouse=WH-24 items=3 status=ok ms=160
+2026-11-17T02:45:53Z DEBUG sync order=HP-1075 payload={"lines":5,"skus":["SKU-8035","SKU-6028"],"subtotalCents":18096,"retry":0,"trace":"2c84c53f2369e9c5"}
+2026-11-17T02:45:53Z INFO sync order=HP-1075 warehouse=WH-18 items=1 status=ok ms=143
+2026-11-17T02:45:24Z DEBUG sync order=HP-1076 payload={"lines":3,"skus":["SKU-6958","SKU-4959"],"subtotalCents":12399,"retry":0,"trace":"3338944a298178ca"}
+2026-11-17T02:45:24Z INFO sync order=HP-1076 warehouse=WH-04 items=3 status=ok ms=220
+2026-11-17T02:46:45Z DEBUG sync order=HP-1077 payload={"lines":3,"skus":["SKU-8117","SKU-1259"],"subtotalCents":4434,"retry":0,"trace":"1f60c8641208bbe3"}
+2026-11-17T02:46:45Z INFO sync order=HP-1077 warehouse=WH-57 items=4 status=ok ms=113
+2026-11-17T02:46:46Z DEBUG sync order=HP-1078 payload={"lines":3,"skus":["SKU-6529","SKU-2643"],"subtotalCents":17394,"retry":0,"trace":"841d0782e1002ff"}
+2026-11-17T02:46:46Z INFO sync order=HP-1078 warehouse=WH-44 items=4 status=ok ms=208
+2026-11-17T02:47:25Z DEBUG sync order=HP-1079 payload={"lines":3,"skus":["SKU-5867","SKU-3966"],"subtotalCents":6382,"retry":0,"trace":"2f0310bf302e3f2"}
+2026-11-17T02:47:25Z INFO sync order=HP-1079 warehouse=WH-60 items=6 status=ok ms=126
+2026-11-17T02:48:51Z DEBUG sync order=HP-1080 payload={"lines":3,"skus":["SKU-4032","SKU-6157"],"subtotalCents":20153,"retry":0,"trace":"2fe2d353f19a9b5"}
+2026-11-17T02:48:51Z INFO sync order=HP-1080 warehouse=WH-46 items=6 status=ok ms=251
+2026-11-17T02:48:35Z DEBUG sync order=HP-1081 payload={"lines":4,"skus":["SKU-5337","SKU-2264"],"subtotalCents":8476,"retry":0,"trace":"24b7509219609d72"}
+2026-11-17T02:48:35Z INFO sync order=HP-1081 warehouse=WH-55 items=3 status=ok ms=355
+2026-11-17T02:49:57Z DEBUG sync order=HP-1082 payload={"lines":4,"skus":["SKU-4277","SKU-4742"],"subtotalCents":9893,"retry":0,"trace":"33df3ddf2f88d5fa"}
+2026-11-17T02:49:57Z INFO sync order=HP-1082 warehouse=WH-07 items=3 status=ok ms=345
+2026-11-17T02:49:43Z DEBUG sync order=HP-1083 payload={"lines":5,"skus":["SKU-1144","SKU-8363"],"subtotalCents":18972,"retry":0,"trace":"2ebbb31ff5dedd"}
+2026-11-17T02:49:43Z INFO sync order=HP-1083 warehouse=WH-23 items=4 status=ok ms=163
+2026-11-17T02:50:33Z DEBUG sync order=HP-1084 payload={"lines":3,"skus":["SKU-7231","SKU-2962"],"subtotalCents":2892,"retry":0,"trace":"30fecffc3b47e9be"}
+2026-11-17T02:50:33Z INFO sync order=HP-1084 warehouse=WH-12 items=2 status=ok ms=220
+2026-11-17T02:51:26Z DEBUG sync order=HP-1085 payload={"lines":2,"skus":["SKU-2711","SKU-8402"],"subtotalCents":10634,"retry":0,"trace":"2c0892422897a1bb"}
+2026-11-17T02:51:26Z INFO sync order=HP-1085 warehouse=WH-37 items=1 status=ok ms=274
+2026-11-17T02:51:50Z DEBUG sync order=HP-1086 payload={"lines":3,"skus":["SKU-7859","SKU-5133"],"subtotalCents":5215,"retry":0,"trace":"14a32ecf21ec7e07"}
+2026-11-17T02:51:50Z INFO sync order=HP-1086 warehouse=WH-11 items=5 status=ok ms=464
+2026-11-17T02:52:06Z DEBUG sync order=HP-1087 payload={"lines":1,"skus":["SKU-6063","SKU-4790"],"subtotalCents":7354,"retry":0,"trace":"b730b6c260bf831"}
+2026-11-17T02:52:06Z INFO sync order=HP-1087 warehouse=WH-47 items=2 status=ok ms=472
+2026-11-17T02:52:05Z DEBUG sync order=HP-1088 payload={"lines":2,"skus":["SKU-4820","SKU-6877"],"subtotalCents":16238,"retry":0,"trace":"1cd9dd3a13f883b4"}
+2026-11-17T02:52:05Z INFO sync order=HP-1088 warehouse=WH-53 items=2 status=ok ms=112
+2026-11-17T02:53:40Z DEBUG sync order=HP-1089 payload={"lines":4,"skus":["SKU-1841","SKU-2168"],"subtotalCents":16546,"retry":0,"trace":"d9f8eacd4c4c25"}
+2026-11-17T02:53:40Z INFO sync order=HP-1089 warehouse=WH-17 items=6 status=ok ms=101
+2026-11-17T02:54:29Z DEBUG sync order=HP-1090 payload={"lines":1,"skus":["SKU-2996","SKU-2134"],"subtotalCents":7283,"retry":0,"trace":"28400a2733a8b14"}
+2026-11-17T02:54:29Z INFO sync order=HP-1090 warehouse=WH-26 items=6 status=ok ms=138
+2026-11-17T02:54:16Z DEBUG sync order=HP-1091 payload={"lines":5,"skus":["SKU-2760","SKU-7645"],"subtotalCents":7109,"retry":0,"trace":"bd893e22263d27f"}
+2026-11-17T02:54:16Z INFO sync order=HP-1091 warehouse=WH-47 items=3 status=ok ms=236
+2026-11-17T02:55:08Z DEBUG sync order=HP-1092 payload={"lines":5,"skus":["SKU-3767","SKU-8919"],"subtotalCents":3994,"retry":0,"trace":"f31030035f2f60"}
+2026-11-17T02:55:08Z INFO sync order=HP-1092 warehouse=WH-34 items=4 status=ok ms=278
+2026-11-17T02:55:08Z DEBUG sync order=HP-1093 payload={"lines":1,"skus":["SKU-2676","SKU-6978"],"subtotalCents":9097,"retry":0,"trace":"253f3a5434f6a998"}
+2026-11-17T02:55:08Z INFO sync order=HP-1093 warehouse=WH-42 items=6 status=ok ms=384
+2026-11-17T02:56:37Z DEBUG sync order=HP-1094 payload={"lines":5,"skus":["SKU-4681","SKU-5525"],"subtotalCents":3402,"retry":0,"trace":"1196b538e55134"}
+2026-11-17T02:56:37Z INFO sync order=HP-1094 warehouse=WH-30 items=1 status=ok ms=100
+2026-11-17T02:57:43Z DEBUG sync order=HP-1095 payload={"lines":2,"skus":["SKU-4550","SKU-3658"],"subtotalCents":6013,"retry":0,"trace":"10f9ff9cb2b9ef4"}
+2026-11-17T02:57:43Z INFO sync order=HP-1095 warehouse=WH-09 items=1 status=ok ms=147
+2026-11-17T02:57:50Z DEBUG sync order=HP-1096 payload={"lines":4,"skus":["SKU-6134","SKU-1420"],"subtotalCents":17786,"retry":0,"trace":"136f03b9262442f7"}
+2026-11-17T02:57:50Z INFO sync order=HP-1096 warehouse=WH-30 items=5 status=ok ms=352
+2026-11-17T02:58:02Z DEBUG sync order=HP-1097 payload={"lines":1,"skus":["SKU-6329","SKU-6775"],"subtotalCents":19364,"retry":0,"trace":"3588a500384fa7aa"}
+2026-11-17T02:58:02Z INFO sync order=HP-1097 warehouse=WH-18 items=4 status=ok ms=186
+2026-11-17T02:58:31Z DEBUG sync order=HP-1098 payload={"lines":4,"skus":["SKU-9972","SKU-3900"],"subtotalCents":6850,"retry":0,"trace":"a0df36b18c1ff62"}
+2026-11-17T02:58:31Z INFO sync order=HP-1098 warehouse=WH-06 items=3 status=ok ms=239
+2026-11-17T02:59:54Z DEBUG sync order=HP-1099 payload={"lines":2,"skus":["SKU-6515","SKU-7186"],"subtotalCents":16076,"retry":0,"trace":"26e8234f3599f671"}
+2026-11-17T02:59:54Z INFO sync order=HP-1099 warehouse=WH-42 items=2 status=ok ms=151
+2026-11-17T03:00:03Z DEBUG sync order=HP-1100 payload={"lines":2,"skus":["SKU-2335","SKU-9202"],"subtotalCents":6313,"retry":0,"trace":"c5fecc017a6b548"}
+2026-11-17T03:00:03Z INFO sync order=HP-1100 warehouse=WH-60 items=4 status=ok ms=335
+2026-11-17T03:00:48Z DEBUG sync order=HP-1101 payload={"lines":2,"skus":["SKU-9353","SKU-3903"],"subtotalCents":4122,"retry":0,"trace":"2cd0a6ff7960475"}
+2026-11-17T03:00:48Z INFO sync order=HP-1101 warehouse=WH-26 items=4 status=ok ms=121
+2026-11-17T03:01:43Z DEBUG sync order=HP-1102 payload={"lines":2,"skus":["SKU-9433","SKU-4995"],"subtotalCents":4661,"retry":0,"trace":"3434b3d319b41792"}
+2026-11-17T03:01:43Z INFO sync order=HP-1102 warehouse=WH-24 items=2 status=ok ms=363
+2026-11-17T03:01:17Z DEBUG sync order=HP-1103 payload={"lines":2,"skus":["SKU-3394","SKU-5351"],"subtotalCents":935,"retry":0,"trace":"249bb5cb10e10c52"}
+2026-11-17T03:01:17Z INFO sync order=HP-1103 warehouse=WH-37 items=6 status=ok ms=108
+2026-11-17T03:02:51Z DEBUG sync order=HP-1104 payload={"lines":2,"skus":["SKU-3190","SKU-8448"],"subtotalCents":12437,"retry":0,"trace":"1bd63966233656fb"}
+2026-11-17T03:02:51Z INFO sync order=HP-1104 warehouse=WH-47 items=5 status=ok ms=321
+2026-11-17T03:03:20Z DEBUG sync order=HP-1105 payload={"lines":3,"skus":["SKU-7041","SKU-7183"],"subtotalCents":20227,"retry":0,"trace":"15df2554170faa24"}
+2026-11-17T03:03:20Z INFO sync order=HP-1105 warehouse=WH-49 items=3 status=ok ms=112
+2026-11-17T03:03:16Z DEBUG sync order=HP-1106 payload={"lines":1,"skus":["SKU-8239","SKU-6302"],"subtotalCents":13465,"retry":0,"trace":"4ec8b8932cef895"}
+2026-11-17T03:03:16Z INFO sync order=HP-1106 warehouse=WH-46 items=6 status=ok ms=328
+2026-11-17T03:04:41Z DEBUG sync order=HP-1107 payload={"lines":3,"skus":["SKU-2190","SKU-1628"],"subtotalCents":5302,"retry":0,"trace":"35f0b399218d61ba"}
+2026-11-17T03:04:41Z INFO sync order=HP-1107 warehouse=WH-06 items=2 status=ok ms=241
+2026-11-17T03:04:46Z DEBUG sync order=HP-1108 payload={"lines":2,"skus":["SKU-5817","SKU-8288"],"subtotalCents":6273,"retry":0,"trace":"eb8e9735548aba"}
+2026-11-17T03:04:46Z INFO sync order=HP-1108 warehouse=WH-42 items=2 status=ok ms=458
+2026-11-17T03:05:48Z DEBUG sync order=HP-1109 payload={"lines":3,"skus":["SKU-7968","SKU-5980"],"subtotalCents":550,"retry":0,"trace":"1067f9325150319"}
+2026-11-17T03:05:48Z INFO sync order=HP-1109 warehouse=WH-02 items=2 status=ok ms=102
+2026-11-17T03:06:06Z DEBUG sync order=HP-1110 payload={"lines":3,"skus":["SKU-4786","SKU-6619"],"subtotalCents":14965,"retry":0,"trace":"265c0f558af34fd"}
+2026-11-17T03:06:06Z INFO sync order=HP-1110 warehouse=WH-45 items=1 status=ok ms=477
+2026-11-17T03:06:48Z DEBUG sync order=HP-1111 payload={"lines":4,"skus":["SKU-4920","SKU-5798"],"subtotalCents":19692,"retry":0,"trace":"253659632ad006ec"}
+2026-11-17T03:06:48Z INFO sync order=HP-1111 warehouse=WH-27 items=2 status=ok ms=323
+2026-11-17T03:07:11Z DEBUG sync order=HP-1112 payload={"lines":1,"skus":["SKU-1325","SKU-9390"],"subtotalCents":1925,"retry":0,"trace":"17049b301ef47b8"}
+2026-11-17T03:07:11Z INFO sync order=HP-1112 warehouse=WH-26 items=6 status=ok ms=170
+2026-11-17T03:07:21Z DEBUG sync order=HP-1113 payload={"lines":4,"skus":["SKU-7843","SKU-6907"],"subtotalCents":795,"retry":0,"trace":"a1d4cb0227e5304"}
+2026-11-17T03:07:21Z INFO sync order=HP-1113 warehouse=WH-27 items=5 status=ok ms=125
+2026-11-17T03:08:13Z DEBUG sync order=HP-1114 payload={"lines":5,"skus":["SKU-4818","SKU-5113"],"subtotalCents":18754,"retry":0,"trace":"231e680036c181bb"}
+2026-11-17T03:08:13Z INFO sync order=HP-1114 warehouse=WH-55 items=5 status=ok ms=155
+2026-11-17T03:09:01Z DEBUG sync order=HP-1115 payload={"lines":3,"skus":["SKU-3052","SKU-5241"],"subtotalCents":6575,"retry":0,"trace":"1542129f29fa8021"}
+2026-11-17T03:09:01Z INFO sync order=HP-1115 warehouse=WH-60 items=6 status=ok ms=322
+2026-11-17T03:09:17Z DEBUG sync order=HP-1116 payload={"lines":3,"skus":["SKU-2495","SKU-5622"],"subtotalCents":16214,"retry":0,"trace":"1900529533d3b20f"}
+2026-11-17T03:09:17Z INFO sync order=HP-1116 warehouse=WH-58 items=4 status=ok ms=434
+2026-11-17T03:10:29Z DEBUG sync order=HP-1117 payload={"lines":5,"skus":["SKU-7360","SKU-7748"],"subtotalCents":5119,"retry":0,"trace":"a5d981e697a9d4"}
+2026-11-17T03:10:29Z INFO sync order=HP-1117 warehouse=WH-12 items=2 status=ok ms=333
+2026-11-17T03:10:49Z DEBUG sync order=HP-1118 payload={"lines":4,"skus":["SKU-6902","SKU-2245"],"subtotalCents":18133,"retry":0,"trace":"244e635c14f5a9ad"}
+2026-11-17T03:10:49Z INFO sync order=HP-1118 warehouse=WH-12 items=2 status=ok ms=336
+2026-11-17T03:11:33Z DEBUG sync order=HP-1119 payload={"lines":1,"skus":["SKU-9359","SKU-8163"],"subtotalCents":16425,"retry":0,"trace":"2b39307024848e3c"}
+2026-11-17T03:11:33Z INFO sync order=HP-1119 warehouse=WH-23 items=4 status=ok ms=450
+2026-11-17T03:12:00Z DEBUG sync order=HP-1120 payload={"lines":2,"skus":["SKU-4176","SKU-7026"],"subtotalCents":4293,"retry":0,"trace":"36c5b8af847623e"}
+2026-11-17T03:12:00Z INFO sync order=HP-1120 warehouse=WH-37 items=3 status=ok ms=306
+2026-11-17T03:12:45Z DEBUG sync order=HP-1121 payload={"lines":4,"skus":["SKU-6799","SKU-4190"],"subtotalCents":8825,"retry":0,"trace":"31d1ed643acdb80d"}
+2026-11-17T03:12:45Z INFO sync order=HP-1121 warehouse=WH-53 items=5 status=ok ms=148
+2026-11-17T03:13:41Z DEBUG sync order=HP-1122 payload={"lines":2,"skus":["SKU-9411","SKU-4504"],"subtotalCents":14081,"retry":0,"trace":"80630496eaa099"}
+2026-11-17T03:13:41Z INFO sync order=HP-1122 warehouse=WH-44 items=4 status=ok ms=385
+2026-11-17T03:13:33Z DEBUG sync order=HP-1123 payload={"lines":3,"skus":["SKU-6796","SKU-8037"],"subtotalCents":3743,"retry":0,"trace":"8afb4ce1f21b7ab"}
+2026-11-17T03:13:33Z INFO sync order=HP-1123 warehouse=WH-01 items=6 status=ok ms=120
+2026-11-17T03:14:39Z DEBUG sync order=HP-1124 payload={"lines":1,"skus":["SKU-9154","SKU-9380"],"subtotalCents":16634,"retry":0,"trace":"2ad6a8271164d0e4"}
+2026-11-17T03:14:39Z INFO sync order=HP-1124 warehouse=WH-25 items=4 status=ok ms=283
+2026-11-17T03:15:13Z DEBUG sync order=HP-1125 payload={"lines":1,"skus":["SKU-5897","SKU-5023"],"subtotalCents":811,"retry":0,"trace":"24ed5e61ebcc27c"}
+2026-11-17T03:15:13Z INFO sync order=HP-1125 warehouse=WH-11 items=4 status=ok ms=107
+2026-11-17T03:15:42Z DEBUG sync order=HP-1126 payload={"lines":5,"skus":["SKU-1856","SKU-1464"],"subtotalCents":7078,"retry":0,"trace":"1a8543492dda58d8"}
+2026-11-17T03:15:42Z INFO sync order=HP-1126 warehouse=WH-41 items=2 status=ok ms=145
+2026-11-17T03:16:17Z DEBUG sync order=HP-1127 payload={"lines":1,"skus":["SKU-4941","SKU-8398"],"subtotalCents":2037,"retry":0,"trace":"1258b7fc22e05498"}
+2026-11-17T03:16:17Z INFO sync order=HP-1127 warehouse=WH-16 items=5 status=ok ms=404
+2026-11-17T03:16:41Z DEBUG sync order=HP-1128 payload={"lines":2,"skus":["SKU-5735","SKU-6252"],"subtotalCents":18871,"retry":0,"trace":"12e8ff262b868a15"}
+2026-11-17T03:16:41Z INFO sync order=HP-1128 warehouse=WH-14 items=6 status=ok ms=401
+2026-11-17T03:17:33Z DEBUG sync order=HP-1129 payload={"lines":4,"skus":["SKU-9544","SKU-4435"],"subtotalCents":2107,"retry":0,"trace":"2312dd392e34064f"}
+2026-11-17T03:17:33Z INFO sync order=HP-1129 warehouse=WH-33 items=1 status=ok ms=161
+2026-11-17T03:18:16Z DEBUG sync order=HP-1130 payload={"lines":2,"skus":["SKU-5554","SKU-1351"],"subtotalCents":8123,"retry":0,"trace":"27c0c47f12fa54e"}
+2026-11-17T03:18:16Z INFO sync order=HP-1130 warehouse=WH-51 items=6 status=ok ms=87
+2026-11-17T03:18:37Z DEBUG sync order=HP-1131 payload={"lines":2,"skus":["SKU-1596","SKU-6339"],"subtotalCents":6168,"retry":0,"trace":"da0ee30103596e3"}
+2026-11-17T03:18:37Z INFO sync order=HP-1131 warehouse=WH-04 items=4 status=ok ms=464
+2026-11-17T03:19:27Z DEBUG sync order=HP-1132 payload={"lines":5,"skus":["SKU-3790","SKU-3122"],"subtotalCents":16265,"retry":0,"trace":"60d4ffe1ffd6d9a"}
+2026-11-17T03:19:27Z INFO sync order=HP-1132 warehouse=WH-06 items=2 status=ok ms=256
+2026-11-17T03:19:11Z DEBUG sync order=HP-1133 payload={"lines":1,"skus":["SKU-9890","SKU-2855"],"subtotalCents":8136,"retry":0,"trace":"66d856539274a7e"}
+2026-11-17T03:19:11Z INFO sync order=HP-1133 warehouse=WH-49 items=4 status=ok ms=108
+2026-11-17T03:20:10Z DEBUG sync order=HP-1134 payload={"lines":2,"skus":["SKU-5973","SKU-1983"],"subtotalCents":14059,"retry":0,"trace":"19881461723320f"}
+2026-11-17T03:20:10Z INFO sync order=HP-1134 warehouse=WH-21 items=5 status=ok ms=255
+2026-11-17T03:21:42Z DEBUG sync order=HP-1135 payload={"lines":5,"skus":["SKU-7106","SKU-1920"],"subtotalCents":17203,"retry":0,"trace":"299f7742200d892e"}
+2026-11-17T03:21:42Z INFO sync order=HP-1135 warehouse=WH-09 items=6 status=ok ms=476
+2026-11-17T03:21:42Z DEBUG sync order=HP-1136 payload={"lines":5,"skus":["SKU-6573","SKU-7454"],"subtotalCents":14936,"retry":0,"trace":"16eb2c7429cc05c"}
+2026-11-17T03:21:42Z INFO sync order=HP-1136 warehouse=WH-43 items=2 status=ok ms=448
+2026-11-17T03:22:50Z DEBUG sync order=HP-1137 payload={"lines":1,"skus":["SKU-5032","SKU-2344"],"subtotalCents":14278,"retry":0,"trace":"1758b620304d5e44"}
+2026-11-17T03:22:50Z INFO sync order=HP-1137 warehouse=WH-38 items=4 status=ok ms=361
+2026-11-17T03:22:31Z DEBUG sync order=HP-1138 payload={"lines":4,"skus":["SKU-1228","SKU-5730"],"subtotalCents":7816,"retry":0,"trace":"1d8c924534bfb9e0"}
+2026-11-17T03:22:31Z INFO sync order=HP-1138 warehouse=WH-49 items=3 status=ok ms=177
+2026-11-17T03:23:24Z DEBUG sync order=HP-1139 payload={"lines":4,"skus":["SKU-8706","SKU-7171"],"subtotalCents":727,"retry":0,"trace":"2801021cdec2660"}
+2026-11-17T03:23:24Z INFO sync order=HP-1139 warehouse=WH-12 items=3 status=ok ms=82
+2026-11-17T03:24:02Z DEBUG sync order=HP-1140 payload={"lines":2,"skus":["SKU-9057","SKU-9262"],"subtotalCents":11190,"retry":0,"trace":"27f67a9710e9fd05"}
+2026-11-17T03:24:02Z INFO sync order=HP-1140 warehouse=WH-45 items=6 status=ok ms=479
+2026-11-17T03:24:34Z DEBUG sync order=HP-1141 payload={"lines":5,"skus":["SKU-3091","SKU-5459"],"subtotalCents":1660,"retry":0,"trace":"2841597536678375"}
+2026-11-17T03:24:34Z INFO sync order=HP-1141 warehouse=WH-19 items=4 status=ok ms=478
+2026-11-17T03:25:45Z DEBUG sync order=HP-1142 payload={"lines":1,"skus":["SKU-9562","SKU-7691"],"subtotalCents":19916,"retry":0,"trace":"1f2f8065a077629"}
+2026-11-17T03:25:45Z INFO sync order=HP-1142 warehouse=WH-15 items=6 status=ok ms=285
+2026-11-17T03:25:42Z DEBUG sync order=HP-1143 payload={"lines":3,"skus":["SKU-7092","SKU-1583"],"subtotalCents":1378,"retry":0,"trace":"aa0a8d1301d0e66"}
+2026-11-17T03:25:42Z INFO sync order=HP-1143 warehouse=WH-03 items=1 status=ok ms=371
+2026-11-17T03:26:01Z DEBUG sync order=HP-1144 payload={"lines":5,"skus":["SKU-4279","SKU-4029"],"subtotalCents":9371,"retry":0,"trace":"20157ca13079298"}
+2026-11-17T03:26:01Z INFO sync order=HP-1144 warehouse=WH-24 items=1 status=ok ms=467
+2026-11-17T03:27:35Z DEBUG sync order=HP-1145 payload={"lines":1,"skus":["SKU-1566","SKU-4996"],"subtotalCents":12332,"retry":0,"trace":"72f2e002922bc95"}
+2026-11-17T03:27:35Z INFO sync order=HP-1145 warehouse=WH-38 items=6 status=ok ms=120
+2026-11-17T03:27:34Z DEBUG sync order=HP-1146 payload={"lines":5,"skus":["SKU-3769","SKU-4514"],"subtotalCents":18576,"retry":0,"trace":"1d307bf7255331c6"}
+2026-11-17T03:27:34Z INFO sync order=HP-1146 warehouse=WH-54 items=2 status=ok ms=404
+2026-11-17T03:28:28Z DEBUG sync order=HP-1147 payload={"lines":5,"skus":["SKU-9994","SKU-5944"],"subtotalCents":19193,"retry":0,"trace":"27b72da02ca364af"}
+2026-11-17T03:28:28Z INFO sync order=HP-1147 warehouse=WH-28 items=3 status=ok ms=191
+2026-11-17T03:28:15Z DEBUG sync order=HP-1148 payload={"lines":1,"skus":["SKU-5474","SKU-1773"],"subtotalCents":15572,"retry":0,"trace":"b50a54cba0792"}
+2026-11-17T03:28:15Z INFO sync order=HP-1148 warehouse=WH-20 items=4 status=ok ms=302
+2026-11-17T03:29:54Z DEBUG sync order=HP-1149 payload={"lines":5,"skus":["SKU-1593","SKU-6830"],"subtotalCents":11479,"retry":0,"trace":"49d57c51827e7a5"}
+2026-11-17T03:29:54Z INFO sync order=HP-1149 warehouse=WH-58 items=3 status=ok ms=285
+2026-11-17T03:30:47Z DEBUG sync order=HP-1150 payload={"lines":1,"skus":["SKU-3291","SKU-8595"],"subtotalCents":5899,"retry":0,"trace":"10aac41537630c48"}
+2026-11-17T03:30:47Z INFO sync order=HP-1150 warehouse=WH-39 items=4 status=ok ms=222
+2026-11-17T03:30:13Z DEBUG sync order=HP-1151 payload={"lines":4,"skus":["SKU-2984","SKU-3118"],"subtotalCents":18149,"retry":0,"trace":"538932e32e46a30"}
+2026-11-17T03:30:13Z INFO sync order=HP-1151 warehouse=WH-51 items=5 status=ok ms=441
+2026-11-17T03:31:07Z DEBUG sync order=HP-1152 payload={"lines":5,"skus":["SKU-6114","SKU-4602"],"subtotalCents":3458,"retry":0,"trace":"165d21eb2753dd36"}
+2026-11-17T03:31:07Z INFO sync order=HP-1152 warehouse=WH-37 items=2 status=ok ms=328
+2026-11-17T03:31:09Z DEBUG sync order=HP-1153 payload={"lines":5,"skus":["SKU-5275","SKU-1130"],"subtotalCents":582,"retry":0,"trace":"2058d6a613a73460"}
+2026-11-17T03:31:09Z INFO sync order=HP-1153 warehouse=WH-01 items=6 status=ok ms=111
+2026-11-17T03:32:55Z DEBUG sync order=HP-1154 payload={"lines":2,"skus":["SKU-4700","SKU-4584"],"subtotalCents":14309,"retry":0,"trace":"14e2206b3a1ece88"}
+2026-11-17T03:32:55Z INFO sync order=HP-1154 warehouse=WH-47 items=5 status=ok ms=478
+2026-11-17T03:33:10Z DEBUG sync order=HP-1155 payload={"lines":1,"skus":["SKU-9194","SKU-2964"],"subtotalCents":16428,"retry":0,"trace":"341a4c7b2f408f75"}
+2026-11-17T03:33:10Z INFO sync order=HP-1155 warehouse=WH-58 items=3 status=ok ms=158
+2026-11-17T03:33:51Z DEBUG sync order=HP-1156 payload={"lines":4,"skus":["SKU-7580","SKU-4444"],"subtotalCents":5175,"retry":0,"trace":"258245f716f5de08"}
+2026-11-17T03:33:51Z INFO sync order=HP-1156 warehouse=WH-20 items=3 status=ok ms=344
+2026-11-17T03:34:30Z DEBUG sync order=HP-1157 payload={"lines":1,"skus":["SKU-2823","SKU-1645"],"subtotalCents":2976,"retry":0,"trace":"1a1de9f2652ba75"}
+2026-11-17T03:34:30Z INFO sync order=HP-1157 warehouse=WH-57 items=6 status=ok ms=339
+2026-11-17T03:34:53Z DEBUG sync order=HP-1158 payload={"lines":3,"skus":["SKU-9978","SKU-5541"],"subtotalCents":1241,"retry":0,"trace":"cead7fa25997d7b"}
+2026-11-17T03:34:53Z INFO sync order=HP-1158 warehouse=WH-23 items=3 status=ok ms=309
+2026-11-17T03:35:25Z DEBUG sync order=HP-1159 payload={"lines":3,"skus":["SKU-6207","SKU-3159"],"subtotalCents":6739,"retry":0,"trace":"46a6799b7d9ff"}
+2026-11-17T03:35:25Z INFO sync order=HP-1159 warehouse=WH-49 items=4 status=ok ms=94
+2026-11-17T03:36:15Z DEBUG sync order=HP-1160 payload={"lines":4,"skus":["SKU-2081","SKU-2234"],"subtotalCents":6890,"retry":0,"trace":"5e76d8b38877b25"}
+2026-11-17T03:36:15Z INFO sync order=HP-1160 warehouse=WH-09 items=4 status=ok ms=478
+2026-11-17T03:36:45Z DEBUG sync order=HP-1161 payload={"lines":1,"skus":["SKU-8808","SKU-2859"],"subtotalCents":14278,"retry":0,"trace":"4a6f96e3872234c"}
+2026-11-17T03:36:45Z INFO sync order=HP-1161 warehouse=WH-07 items=5 status=ok ms=81
+2026-11-17T03:37:08Z DEBUG sync order=HP-1162 payload={"lines":2,"skus":["SKU-9189","SKU-3954"],"subtotalCents":16717,"retry":0,"trace":"2d0ccaa8ef8d635"}
+2026-11-17T03:37:08Z INFO sync order=HP-1162 warehouse=WH-01 items=2 status=ok ms=87
+2026-11-17T03:37:10Z DEBUG sync order=HP-1163 payload={"lines":5,"skus":["SKU-1119","SKU-5038"],"subtotalCents":4430,"retry":0,"trace":"28f8df88272cf953"}
+2026-11-17T03:37:10Z INFO sync order=HP-1163 warehouse=WH-02 items=1 status=ok ms=254
+2026-11-17T03:38:06Z DEBUG sync order=HP-1164 payload={"lines":2,"skus":["SKU-8439","SKU-7165"],"subtotalCents":4912,"retry":0,"trace":"253d0111e02eeec"}
+2026-11-17T03:38:06Z INFO sync order=HP-1164 warehouse=WH-13 items=4 status=ok ms=268
+2026-11-17T03:39:55Z DEBUG sync order=HP-1165 payload={"lines":4,"skus":["SKU-8453","SKU-2196"],"subtotalCents":3320,"retry":0,"trace":"1f5140f32a15e9df"}
+2026-11-17T03:39:55Z INFO sync order=HP-1165 warehouse=WH-31 items=3 status=ok ms=265
+2026-11-17T03:39:59Z DEBUG sync order=HP-1166 payload={"lines":3,"skus":["SKU-5623","SKU-1140"],"subtotalCents":9374,"retry":0,"trace":"1fb2fa1b1c74e595"}
+2026-11-17T03:39:59Z INFO sync order=HP-1166 warehouse=WH-52 items=1 status=ok ms=136
+2026-11-17T03:40:41Z DEBUG sync order=HP-1167 payload={"lines":4,"skus":["SKU-2378","SKU-5770"],"subtotalCents":18006,"retry":0,"trace":"3833270839a23641"}
+2026-11-17T03:40:41Z INFO sync order=HP-1167 warehouse=WH-54 items=6 status=ok ms=426
+2026-11-17T03:40:24Z DEBUG sync order=HP-1168 payload={"lines":2,"skus":["SKU-2003","SKU-2045"],"subtotalCents":6309,"retry":0,"trace":"40fe9e130d94a78"}
+2026-11-17T03:40:24Z INFO sync order=HP-1168 warehouse=WH-35 items=2 status=ok ms=211
+2026-11-17T03:41:39Z DEBUG sync order=HP-1169 payload={"lines":5,"skus":["SKU-1470","SKU-2936"],"subtotalCents":13918,"retry":0,"trace":"294bb07126dac7f4"}
+2026-11-17T03:41:39Z INFO sync order=HP-1169 warehouse=WH-17 items=1 status=ok ms=445
+2026-11-17T03:42:20Z DEBUG sync order=HP-1170 payload={"lines":5,"skus":["SKU-9093","SKU-2722"],"subtotalCents":12933,"retry":0,"trace":"44a80cc1c33c846"}
+2026-11-17T03:42:20Z INFO sync order=HP-1170 warehouse=WH-28 items=2 status=ok ms=108
+2026-11-17T03:42:49Z DEBUG sync order=HP-1171 payload={"lines":4,"skus":["SKU-3846","SKU-9160"],"subtotalCents":5177,"retry":0,"trace":"182453642157563a"}
+2026-11-17T03:42:49Z INFO sync order=HP-1171 warehouse=WH-27 items=4 status=ok ms=297
+2026-11-17T03:43:01Z DEBUG sync order=HP-1172 payload={"lines":3,"skus":["SKU-5217","SKU-2037"],"subtotalCents":15416,"retry":0,"trace":"d5a84d12f521d9"}
+2026-11-17T03:43:01Z INFO sync order=HP-1172 warehouse=WH-14 items=3 status=ok ms=91
+2026-11-17T03:43:01Z DEBUG sync order=HP-1173 payload={"lines":1,"skus":["SKU-1643","SKU-8635"],"subtotalCents":3300,"retry":0,"trace":"620109b344f8768"}
+2026-11-17T03:43:01Z INFO sync order=HP-1173 warehouse=WH-06 items=2 status=ok ms=266
+2026-11-17T03:44:16Z DEBUG sync order=HP-1174 payload={"lines":5,"skus":["SKU-7666","SKU-4795"],"subtotalCents":13723,"retry":0,"trace":"2c83d09922a150d8"}
+2026-11-17T03:44:16Z INFO sync order=HP-1174 warehouse=WH-34 items=6 status=ok ms=442
+2026-11-17T03:45:29Z DEBUG sync order=HP-1175 payload={"lines":4,"skus":["SKU-1444","SKU-6189"],"subtotalCents":19169,"retry":0,"trace":"23b4498d13ed3a29"}
+2026-11-17T03:45:29Z INFO sync order=HP-1175 warehouse=WH-21 items=2 status=ok ms=247
+2026-11-17T03:45:45Z DEBUG sync order=HP-1176 payload={"lines":5,"skus":["SKU-9941","SKU-1817"],"subtotalCents":12547,"retry":0,"trace":"2d444f522f9d2d4a"}
+2026-11-17T03:45:45Z INFO sync order=HP-1176 warehouse=WH-49 items=2 status=ok ms=275
+2026-11-17T03:46:33Z DEBUG sync order=HP-1177 payload={"lines":2,"skus":["SKU-2430","SKU-7455"],"subtotalCents":8954,"retry":0,"trace":"284de0ac2c4e3941"}
+2026-11-17T03:46:33Z INFO sync order=HP-1177 warehouse=WH-33 items=4 status=ok ms=387
+2026-11-17T03:46:39Z DEBUG sync order=HP-1178 payload={"lines":2,"skus":["SKU-5589","SKU-6178"],"subtotalCents":11267,"retry":0,"trace":"30447549c49ce1"}
+2026-11-17T03:46:39Z INFO sync order=HP-1178 warehouse=WH-03 items=3 status=ok ms=208
+2026-11-17T03:47:14Z DEBUG sync order=HP-1179 payload={"lines":1,"skus":["SKU-1856","SKU-9784"],"subtotalCents":13721,"retry":0,"trace":"38ac976b2c00b241"}
+2026-11-17T03:47:14Z INFO sync order=HP-1179 warehouse=WH-43 items=4 status=ok ms=321
+2026-11-17T03:48:29Z DEBUG sync order=HP-1180 payload={"lines":3,"skus":["SKU-4803","SKU-4833"],"subtotalCents":18882,"retry":0,"trace":"26d2f398128918e7"}
+2026-11-17T03:48:29Z INFO sync order=HP-1180 warehouse=WH-09 items=6 status=ok ms=377
+2026-11-17T03:48:49Z DEBUG sync order=HP-1181 payload={"lines":3,"skus":["SKU-1139","SKU-9392"],"subtotalCents":13036,"retry":0,"trace":"130e09e1304d408e"}
+2026-11-17T03:48:49Z INFO sync order=HP-1181 warehouse=WH-48 items=2 status=ok ms=456
+2026-11-17T03:49:38Z DEBUG sync order=HP-1182 payload={"lines":5,"skus":["SKU-2820","SKU-6335"],"subtotalCents":19219,"retry":0,"trace":"228780928f61002"}
+2026-11-17T03:49:38Z INFO sync order=HP-1182 warehouse=WH-35 items=4 status=ok ms=233
+2026-11-17T03:49:47Z DEBUG sync order=HP-1183 payload={"lines":3,"skus":["SKU-2605","SKU-3912"],"subtotalCents":13503,"retry":0,"trace":"19a45a7553c9921"}
+2026-11-17T03:49:47Z INFO sync order=HP-1183 warehouse=WH-53 items=6 status=ok ms=383
+2026-11-17T03:50:59Z DEBUG sync order=HP-1184 payload={"lines":2,"skus":["SKU-1124","SKU-2675"],"subtotalCents":15499,"retry":0,"trace":"3a1a35b92be761bc"}
+2026-11-17T03:50:59Z INFO sync order=HP-1184 warehouse=WH-43 items=3 status=ok ms=392
+2026-11-17T03:51:50Z DEBUG sync order=HP-1185 payload={"lines":1,"skus":["SKU-4014","SKU-8612"],"subtotalCents":1747,"retry":0,"trace":"da9ef4f29df290f"}
+2026-11-17T03:51:50Z INFO sync order=HP-1185 warehouse=WH-52 items=4 status=ok ms=120
+2026-11-17T03:51:05Z DEBUG sync order=HP-1186 payload={"lines":3,"skus":["SKU-5762","SKU-3898"],"subtotalCents":11396,"retry":0,"trace":"39f6b5c561bb83c"}
+2026-11-17T03:51:05Z INFO sync order=HP-1186 warehouse=WH-29 items=6 status=ok ms=95
+2026-11-17T03:52:14Z DEBUG sync order=HP-1187 payload={"lines":5,"skus":["SKU-1638","SKU-3563"],"subtotalCents":8976,"retry":0,"trace":"3613e4110d18e5"}
+2026-11-17T03:52:14Z WARN sync order=HP-1187 warehouse=WH-27 slow response, retrying
+2026-11-17T03:52:14Z ERROR sync order=HP-1187 warehouse=WH-27 status=failed reason="timeout after 30000 ms" attempt=3/3
+2026-11-17T03:52:29Z DEBUG sync order=HP-1188 payload={"lines":2,"skus":["SKU-6123","SKU-9904"],"subtotalCents":11699,"retry":0,"trace":"19ecdee22b33023c"}
+2026-11-17T03:52:29Z INFO sync order=HP-1188 warehouse=WH-18 items=2 status=ok ms=318
+2026-11-17T03:53:29Z DEBUG sync order=HP-1189 payload={"lines":2,"skus":["SKU-5629","SKU-7400"],"subtotalCents":1787,"retry":0,"trace":"15c80e32152cc604"}
+2026-11-17T03:53:29Z INFO sync order=HP-1189 warehouse=WH-08 items=2 status=ok ms=471
+2026-11-17T03:54:36Z DEBUG sync order=HP-1190 payload={"lines":2,"skus":["SKU-7325","SKU-9094"],"subtotalCents":7489,"retry":0,"trace":"24b79cab1e03839b"}
+2026-11-17T03:54:36Z INFO sync order=HP-1190 warehouse=WH-29 items=2 status=ok ms=351
+2026-11-17T03:54:50Z DEBUG sync order=HP-1191 payload={"lines":1,"skus":["SKU-3142","SKU-2492"],"subtotalCents":1085,"retry":0,"trace":"1efb415716bac73c"}
+2026-11-17T03:54:50Z INFO sync order=HP-1191 warehouse=WH-23 items=2 status=ok ms=396
+2026-11-17T03:55:46Z DEBUG sync order=HP-1192 payload={"lines":2,"skus":["SKU-5361","SKU-3738"],"subtotalCents":18624,"retry":0,"trace":"5bea2d62ce153ce"}
+2026-11-17T03:55:46Z INFO sync order=HP-1192 warehouse=WH-21 items=2 status=ok ms=192
+2026-11-17T03:55:02Z DEBUG sync order=HP-1193 payload={"lines":5,"skus":["SKU-3389","SKU-4517"],"subtotalCents":2420,"retry":0,"trace":"195b595a3774546e"}
+2026-11-17T03:55:02Z INFO sync order=HP-1193 warehouse=WH-10 items=1 status=ok ms=348
+2026-11-17T03:56:58Z DEBUG sync order=HP-1194 payload={"lines":3,"skus":["SKU-5010","SKU-9776"],"subtotalCents":20340,"retry":0,"trace":"26084d431bc5ca73"}
+2026-11-17T03:56:58Z INFO sync order=HP-1194 warehouse=WH-44 items=1 status=ok ms=179
+2026-11-17T03:57:20Z DEBUG sync order=HP-1195 payload={"lines":2,"skus":["SKU-6680","SKU-2140"],"subtotalCents":3861,"retry":0,"trace":"609580333a9945f"}
+2026-11-17T03:57:20Z INFO sync order=HP-1195 warehouse=WH-08 items=2 status=ok ms=359
+2026-11-17T03:57:44Z DEBUG sync order=HP-1196 payload={"lines":2,"skus":["SKU-5419","SKU-3693"],"subtotalCents":1115,"retry":0,"trace":"ad1327c2bee5333"}
+2026-11-17T03:57:44Z INFO sync order=HP-1196 warehouse=WH-37 items=1 status=ok ms=282
+2026-11-17T03:58:58Z DEBUG sync order=HP-1197 payload={"lines":2,"skus":["SKU-9382","SKU-8093"],"subtotalCents":11173,"retry":0,"trace":"38e5243e92caa"}
+2026-11-17T03:58:58Z INFO sync order=HP-1197 warehouse=WH-22 items=6 status=ok ms=372
+2026-11-17T03:58:18Z DEBUG sync order=HP-1198 payload={"lines":4,"skus":["SKU-7556","SKU-3225"],"subtotalCents":3292,"retry":0,"trace":"26f5990f1766ea93"}
+2026-11-17T03:58:18Z INFO sync order=HP-1198 warehouse=WH-42 items=1 status=ok ms=128
+2026-11-17T03:59:41Z DEBUG sync order=HP-1199 payload={"lines":5,"skus":["SKU-3490","SKU-4790"],"subtotalCents":7239,"retry":0,"trace":"2c72f2792abc511"}
+2026-11-17T03:59:41Z INFO sync order=HP-1199 warehouse=WH-03 items=1 status=ok ms=357
+2026-11-17T04:00:49Z DEBUG sync order=HP-1200 payload={"lines":5,"skus":["SKU-9657","SKU-4203"],"subtotalCents":4200,"retry":0,"trace":"2c30fd9521668122"}
+2026-11-17T04:00:49Z INFO sync order=HP-1200 warehouse=WH-14 items=4 status=ok ms=325
+2026-11-17T04:00:52Z DEBUG sync order=HP-1201 payload={"lines":5,"skus":["SKU-1877","SKU-2895"],"subtotalCents":2573,"retry":0,"trace":"5b993dc2f42c1ee"}
+2026-11-17T04:00:52Z INFO sync order=HP-1201 warehouse=WH-01 items=5 status=ok ms=132
+2026-11-17T04:01:52Z DEBUG sync order=HP-1202 payload={"lines":4,"skus":["SKU-2641","SKU-1326"],"subtotalCents":20070,"retry":0,"trace":"33fdbe0326acda43"}
+2026-11-17T04:01:52Z INFO sync order=HP-1202 warehouse=WH-39 items=1 status=ok ms=371
+2026-11-17T04:01:22Z DEBUG sync order=HP-1203 payload={"lines":1,"skus":["SKU-6549","SKU-5052"],"subtotalCents":4023,"retry":0,"trace":"9b7770328e1bcfd"}
+2026-11-17T04:01:22Z INFO sync order=HP-1203 warehouse=WH-50 items=5 status=ok ms=241
+2026-11-17T04:02:39Z DEBUG sync order=HP-1204 payload={"lines":1,"skus":["SKU-9844","SKU-5685"],"subtotalCents":19813,"retry":0,"trace":"2f6af48821eba0"}
+2026-11-17T04:02:39Z INFO sync order=HP-1204 warehouse=WH-05 items=2 status=ok ms=163
+2026-11-17T04:03:31Z DEBUG sync order=HP-1205 payload={"lines":3,"skus":["SKU-8857","SKU-2923"],"subtotalCents":13115,"retry":0,"trace":"58d9bda105d5cc2"}
+2026-11-17T04:03:31Z INFO sync order=HP-1205 warehouse=WH-44 items=6 status=ok ms=439
+2026-11-17T04:03:49Z DEBUG sync order=HP-1206 payload={"lines":5,"skus":["SKU-5685","SKU-8444"],"subtotalCents":9092,"retry":0,"trace":"3ac168629df6610"}
+2026-11-17T04:03:49Z INFO sync order=HP-1206 warehouse=WH-22 items=3 status=ok ms=202
+2026-11-17T04:04:10Z DEBUG sync order=HP-1207 payload={"lines":3,"skus":["SKU-8759","SKU-2414"],"subtotalCents":3876,"retry":0,"trace":"2114259220cc916"}
+2026-11-17T04:04:10Z INFO sync order=HP-1207 warehouse=WH-30 items=4 status=ok ms=270
+2026-11-17T04:04:09Z DEBUG sync order=HP-1208 payload={"lines":3,"skus":["SKU-4977","SKU-2006"],"subtotalCents":13494,"retry":0,"trace":"1a6a931e5925cac"}
+2026-11-17T04:04:09Z INFO sync order=HP-1208 warehouse=WH-16 items=4 status=ok ms=324
+2026-11-17T04:05:42Z DEBUG sync order=HP-1209 payload={"lines":4,"skus":["SKU-3323","SKU-5480"],"subtotalCents":19803,"retry":0,"trace":"277776dab68ebe9"}
+2026-11-17T04:05:42Z INFO sync order=HP-1209 warehouse=WH-57 items=4 status=ok ms=439
+2026-11-17T04:06:46Z DEBUG sync order=HP-1210 payload={"lines":3,"skus":["SKU-9628","SKU-3848"],"subtotalCents":4409,"retry":0,"trace":"57047546e3fbee"}
+2026-11-17T04:06:46Z INFO sync order=HP-1210 warehouse=WH-21 items=1 status=ok ms=192
+2026-11-17T04:06:07Z DEBUG sync order=HP-1211 payload={"lines":4,"skus":["SKU-8577","SKU-8685"],"subtotalCents":19123,"retry":0,"trace":"1fc88dda102b166"}
+2026-11-17T04:06:07Z INFO sync order=HP-1211 warehouse=WH-03 items=4 status=ok ms=410
+2026-11-17T04:07:48Z DEBUG sync order=HP-1212 payload={"lines":4,"skus":["SKU-1345","SKU-5360"],"subtotalCents":15405,"retry":0,"trace":"289ec9c2911cb02"}
+2026-11-17T04:07:48Z INFO sync order=HP-1212 warehouse=WH-38 items=3 status=ok ms=293
+2026-11-17T04:07:18Z DEBUG sync order=HP-1213 payload={"lines":4,"skus":["SKU-4944","SKU-9955"],"subtotalCents":9086,"retry":0,"trace":"29d95ba38808db2"}
+2026-11-17T04:07:18Z INFO sync order=HP-1213 warehouse=WH-42 items=5 status=ok ms=264
+2026-11-17T04:08:55Z DEBUG sync order=HP-1214 payload={"lines":4,"skus":["SKU-2241","SKU-5689"],"subtotalCents":9593,"retry":0,"trace":"7a9adb61f8e1fc1"}
+2026-11-17T04:08:55Z INFO sync order=HP-1214 warehouse=WH-60 items=3 status=ok ms=264
+2026-11-17T04:09:33Z DEBUG sync order=HP-1215 payload={"lines":2,"skus":["SKU-2797","SKU-7393"],"subtotalCents":19696,"retry":0,"trace":"101e611b14ad5fd3"}
+2026-11-17T04:09:33Z INFO sync order=HP-1215 warehouse=WH-49 items=1 status=ok ms=451
+2026-11-17T04:09:14Z DEBUG sync order=HP-1216 payload={"lines":4,"skus":["SKU-9010","SKU-2944"],"subtotalCents":3843,"retry":0,"trace":"383194148a51dc1"}
+2026-11-17T04:09:14Z INFO sync order=HP-1216 warehouse=WH-59 items=6 status=ok ms=126
+2026-11-17T04:10:58Z DEBUG sync order=HP-1217 payload={"lines":1,"skus":["SKU-9340","SKU-2461"],"subtotalCents":12398,"retry":0,"trace":"20cbe8bf10d37701"}
+2026-11-17T04:10:58Z INFO sync order=HP-1217 warehouse=WH-55 items=3 status=ok ms=281
+2026-11-17T04:10:28Z DEBUG sync order=HP-1218 payload={"lines":2,"skus":["SKU-4922","SKU-9419"],"subtotalCents":18343,"retry":0,"trace":"9643948154150db"}
+2026-11-17T04:10:28Z INFO sync order=HP-1218 warehouse=WH-27 items=5 status=ok ms=418
+2026-11-17T04:11:06Z DEBUG sync order=HP-1219 payload={"lines":5,"skus":["SKU-7139","SKU-9738"],"subtotalCents":17140,"retry":0,"trace":"ea8523a89cffcb"}
+2026-11-17T04:11:06Z INFO sync order=HP-1219 warehouse=WH-60 items=2 status=ok ms=272
+2026-11-17T04:12:08Z DEBUG sync order=HP-1220 payload={"lines":5,"skus":["SKU-4855","SKU-6285"],"subtotalCents":3036,"retry":0,"trace":"1bf0040e2271eaf9"}
+2026-11-17T04:12:08Z INFO sync order=HP-1220 warehouse=WH-09 items=1 status=ok ms=263
+2026-11-17T04:12:36Z DEBUG sync order=HP-1221 payload={"lines":5,"skus":["SKU-7383","SKU-9568"],"subtotalCents":11612,"retry":0,"trace":"32df6bd46c7a25c"}
+2026-11-17T04:12:36Z INFO sync order=HP-1221 warehouse=WH-57 items=5 status=ok ms=315
+2026-11-17T04:13:11Z DEBUG sync order=HP-1222 payload={"lines":5,"skus":["SKU-8427","SKU-8738"],"subtotalCents":14111,"retry":0,"trace":"2deb599550b25df"}
+2026-11-17T04:13:11Z INFO sync order=HP-1222 warehouse=WH-50 items=3 status=ok ms=187
+2026-11-17T04:13:24Z DEBUG sync order=HP-1223 payload={"lines":1,"skus":["SKU-3673","SKU-9395"],"subtotalCents":18468,"retry":0,"trace":"340462acb4ef0b4"}
+2026-11-17T04:13:24Z INFO sync order=HP-1223 warehouse=WH-04 items=1 status=ok ms=235
+2026-11-17T04:14:15Z DEBUG sync order=HP-1224 payload={"lines":3,"skus":["SKU-7323","SKU-3237"],"subtotalCents":18735,"retry":0,"trace":"2c991150169ce362"}
+2026-11-17T04:14:15Z INFO sync order=HP-1224 warehouse=WH-33 items=4 status=ok ms=336
+2026-11-17T04:15:40Z DEBUG sync order=HP-1225 payload={"lines":4,"skus":["SKU-9385","SKU-6155"],"subtotalCents":19510,"retry":0,"trace":"3ab372101200cd69"}
+2026-11-17T04:15:40Z INFO sync order=HP-1225 warehouse=WH-41 items=5 status=ok ms=325
+2026-11-17T04:15:42Z DEBUG sync order=HP-1226 payload={"lines":3,"skus":["SKU-4610","SKU-6716"],"subtotalCents":18626,"retry":0,"trace":"30954db7cde4aca"}
+2026-11-17T04:15:42Z INFO sync order=HP-1226 warehouse=WH-37 items=5 status=ok ms=318
+2026-11-17T04:16:59Z DEBUG sync order=HP-1227 payload={"lines":4,"skus":["SKU-6519","SKU-2200"],"subtotalCents":9403,"retry":0,"trace":"71b9e0b4e29c9d"}
+2026-11-17T04:16:59Z INFO sync order=HP-1227 warehouse=WH-40 items=6 status=ok ms=270
+2026-11-17T04:16:18Z DEBUG sync order=HP-1228 payload={"lines":2,"skus":["SKU-5858","SKU-4343"],"subtotalCents":12241,"retry":0,"trace":"1c45ddf21a04dbd4"}
+2026-11-17T04:16:18Z INFO sync order=HP-1228 warehouse=WH-42 items=1 status=ok ms=245
+2026-11-17T04:17:33Z DEBUG sync order=HP-1229 payload={"lines":2,"skus":["SKU-6560","SKU-6111"],"subtotalCents":13799,"retry":0,"trace":"1f3ac0c61763449b"}
+2026-11-17T04:17:33Z INFO sync order=HP-1229 warehouse=WH-01 items=5 status=ok ms=214
+2026-11-17T04:18:32Z DEBUG sync order=HP-1230 payload={"lines":2,"skus":["SKU-3960","SKU-6150"],"subtotalCents":3573,"retry":0,"trace":"8d707051579089e"}
+2026-11-17T04:18:32Z INFO sync order=HP-1230 warehouse=WH-31 items=2 status=ok ms=474
+2026-11-17T04:18:33Z DEBUG sync order=HP-1231 payload={"lines":2,"skus":["SKU-5916","SKU-6379"],"subtotalCents":4216,"retry":0,"trace":"322a9cb2cdd1ed1"}
+2026-11-17T04:18:33Z INFO sync order=HP-1231 warehouse=WH-18 items=6 status=ok ms=114
+2026-11-17T04:19:14Z DEBUG sync order=HP-1232 payload={"lines":4,"skus":["SKU-7595","SKU-1369"],"subtotalCents":8920,"retry":0,"trace":"8ad637e2deb282a"}
+2026-11-17T04:19:14Z INFO sync order=HP-1232 warehouse=WH-19 items=3 status=ok ms=273
+2026-11-17T04:19:57Z DEBUG sync order=HP-1233 payload={"lines":5,"skus":["SKU-8007","SKU-2067"],"subtotalCents":9785,"retry":0,"trace":"17d428d11d7c6bd9"}
+2026-11-17T04:19:57Z INFO sync order=HP-1233 warehouse=WH-58 items=3 status=ok ms=316
+2026-11-17T04:20:33Z DEBUG sync order=HP-1234 payload={"lines":1,"skus":["SKU-1069","SKU-3381"],"subtotalCents":9926,"retry":0,"trace":"26f955132425e906"}
+2026-11-17T04:20:33Z INFO sync order=HP-1234 warehouse=WH-31 items=3 status=ok ms=178
+2026-11-17T04:21:29Z DEBUG sync order=HP-1235 payload={"lines":4,"skus":["SKU-1113","SKU-9903"],"subtotalCents":7413,"retry":0,"trace":"71657c12252013f"}
+2026-11-17T04:21:29Z INFO sync order=HP-1235 warehouse=WH-31 items=6 status=ok ms=290
+2026-11-17T04:21:09Z DEBUG sync order=HP-1236 payload={"lines":2,"skus":["SKU-7402","SKU-4880"],"subtotalCents":6867,"retry":0,"trace":"261b6f473370bacb"}
+2026-11-17T04:21:09Z INFO sync order=HP-1236 warehouse=WH-47 items=6 status=ok ms=234
+2026-11-17T04:22:16Z DEBUG sync order=HP-1237 payload={"lines":3,"skus":["SKU-7864","SKU-6780"],"subtotalCents":19801,"retry":0,"trace":"2e5719bb15c15b86"}
+2026-11-17T04:22:16Z INFO sync order=HP-1237 warehouse=WH-36 items=5 status=ok ms=345
+2026-11-17T04:22:09Z DEBUG sync order=HP-1238 payload={"lines":4,"skus":["SKU-4779","SKU-5278"],"subtotalCents":12854,"retry":0,"trace":"2b79de32ca54bf9"}
+2026-11-17T04:22:09Z INFO sync order=HP-1238 warehouse=WH-52 items=2 status=ok ms=411
+2026-11-17T04:23:59Z DEBUG sync order=HP-1239 payload={"lines":5,"skus":["SKU-6538","SKU-9372"],"subtotalCents":13678,"retry":0,"trace":"82f20d42e6f127a"}
+2026-11-17T04:23:59Z INFO sync order=HP-1239 warehouse=WH-44 items=4 status=ok ms=339
+2026-11-17T04:24:46Z DEBUG sync order=HP-1240 payload={"lines":3,"skus":["SKU-5425","SKU-2624"],"subtotalCents":12071,"retry":0,"trace":"d10082d9c4de2f"}
+2026-11-17T04:24:46Z INFO sync order=HP-1240 warehouse=WH-32 items=4 status=ok ms=215
+2026-11-17T04:24:49Z DEBUG sync order=HP-1241 payload={"lines":4,"skus":["SKU-7390","SKU-5809"],"subtotalCents":13591,"retry":0,"trace":"725c02826d21c7b"}
+2026-11-17T04:24:49Z INFO sync order=HP-1241 warehouse=WH-09 items=5 status=ok ms=113
+2026-11-17T04:25:30Z DEBUG sync order=HP-1242 payload={"lines":1,"skus":["SKU-9751","SKU-5431"],"subtotalCents":3029,"retry":0,"trace":"1d372a1d10f2610a"}
+2026-11-17T04:25:30Z INFO sync order=HP-1242 warehouse=WH-03 items=5 status=ok ms=95
+2026-11-17T04:25:32Z DEBUG sync order=HP-1243 payload={"lines":4,"skus":["SKU-9087","SKU-8125"],"subtotalCents":15911,"retry":0,"trace":"5250fff17733b05"}
+2026-11-17T04:25:32Z INFO sync order=HP-1243 warehouse=WH-23 items=3 status=ok ms=244
+2026-11-17T04:26:08Z DEBUG sync order=HP-1244 payload={"lines":1,"skus":["SKU-2900","SKU-9423"],"subtotalCents":4028,"retry":0,"trace":"3aaac61b2ee0d381"}
+2026-11-17T04:26:08Z INFO sync order=HP-1244 warehouse=WH-07 items=6 status=ok ms=189
+2026-11-17T04:27:46Z DEBUG sync order=HP-1245 payload={"lines":5,"skus":["SKU-1116","SKU-9895"],"subtotalCents":8671,"retry":0,"trace":"c4c509b26075080"}
+2026-11-17T04:27:46Z INFO sync order=HP-1245 warehouse=WH-54 items=6 status=ok ms=337
+2026-11-17T04:27:06Z DEBUG sync order=HP-1246 payload={"lines":3,"skus":["SKU-9851","SKU-6059"],"subtotalCents":8760,"retry":0,"trace":"f294a1aee0c8db"}
+2026-11-17T04:27:06Z INFO sync order=HP-1246 warehouse=WH-34 items=6 status=ok ms=321
+2026-11-17T04:28:30Z DEBUG sync order=HP-1247 payload={"lines":1,"skus":["SKU-7264","SKU-4817"],"subtotalCents":11962,"retry":0,"trace":"63386619abb91f"}
+2026-11-17T04:28:30Z INFO sync order=HP-1247 warehouse=WH-19 items=2 status=ok ms=268
+2026-11-17T04:28:20Z DEBUG sync order=HP-1248 payload={"lines":3,"skus":["SKU-8838","SKU-9147"],"subtotalCents":19946,"retry":0,"trace":"73fb1d6f61ed05"}
+2026-11-17T04:28:20Z INFO sync order=HP-1248 warehouse=WH-59 items=2 status=ok ms=101
+2026-11-17T04:29:59Z DEBUG sync order=HP-1249 payload={"lines":2,"skus":["SKU-7443","SKU-3683"],"subtotalCents":4237,"retry":0,"trace":"a50e01827bedc9a"}
+2026-11-17T04:29:59Z INFO sync order=HP-1249 warehouse=WH-05 items=1 status=ok ms=247
+2026-11-17T04:30:26Z DEBUG sync order=HP-1250 payload={"lines":5,"skus":["SKU-1753","SKU-2350"],"subtotalCents":6887,"retry":0,"trace":"2e9ca1fa10725750"}
+2026-11-17T04:30:26Z INFO sync order=HP-1250 warehouse=WH-41 items=3 status=ok ms=191
+2026-11-17T04:30:42Z DEBUG sync order=HP-1251 payload={"lines":2,"skus":["SKU-6772","SKU-1286"],"subtotalCents":2473,"retry":0,"trace":"186beea42bf01795"}
+2026-11-17T04:30:42Z INFO sync order=HP-1251 warehouse=WH-02 items=5 status=ok ms=263
+2026-11-17T04:31:02Z DEBUG sync order=HP-1252 payload={"lines":5,"skus":["SKU-5479","SKU-1942"],"subtotalCents":3016,"retry":0,"trace":"1674e50d1fb60325"}
+2026-11-17T04:31:02Z INFO sync order=HP-1252 warehouse=WH-54 items=4 status=ok ms=173
+2026-11-17T04:31:34Z DEBUG sync order=HP-1253 payload={"lines":2,"skus":["SKU-4488","SKU-9140"],"subtotalCents":19596,"retry":0,"trace":"2b75b2ea362308bb"}
+2026-11-17T04:31:34Z INFO sync order=HP-1253 warehouse=WH-09 items=3 status=ok ms=235
+2026-11-17T04:32:54Z DEBUG sync order=HP-1254 payload={"lines":4,"skus":["SKU-5962","SKU-3267"],"subtotalCents":6845,"retry":0,"trace":"137bf492260d560f"}
+2026-11-17T04:32:54Z INFO sync order=HP-1254 warehouse=WH-36 items=4 status=ok ms=324
+2026-11-17T04:33:01Z DEBUG sync order=HP-1255 payload={"lines":1,"skus":["SKU-5515","SKU-3775"],"subtotalCents":14812,"retry":0,"trace":"1284b35010343af7"}
+2026-11-17T04:33:01Z INFO sync order=HP-1255 warehouse=WH-29 items=2 status=ok ms=450
+2026-11-17T04:33:26Z DEBUG sync order=HP-1256 payload={"lines":5,"skus":["SKU-4411","SKU-2770"],"subtotalCents":15075,"retry":0,"trace":"71345c1a9c18d7"}
+2026-11-17T04:33:26Z INFO sync order=HP-1256 warehouse=WH-48 items=5 status=ok ms=291
+2026-11-17T04:34:41Z DEBUG sync order=HP-1257 payload={"lines":4,"skus":["SKU-5157","SKU-2723"],"subtotalCents":9401,"retry":0,"trace":"25030de7271f025c"}
+2026-11-17T04:34:41Z INFO sync order=HP-1257 warehouse=WH-06 items=6 status=ok ms=84
+2026-11-17T04:34:49Z DEBUG sync order=HP-1258 payload={"lines":2,"skus":["SKU-2643","SKU-9033"],"subtotalCents":17112,"retry":0,"trace":"e56ad4029a5dbdf"}
+2026-11-17T04:34:49Z INFO sync order=HP-1258 warehouse=WH-52 items=6 status=ok ms=123
+2026-11-17T04:35:17Z DEBUG sync order=HP-1259 payload={"lines":2,"skus":["SKU-1718","SKU-8859"],"subtotalCents":11834,"retry":0,"trace":"298ada6124bea32f"}
+2026-11-17T04:35:17Z INFO sync order=HP-1259 warehouse=WH-17 items=5 status=ok ms=160
+2026-11-17T04:36:53Z DEBUG sync order=HP-1260 payload={"lines":1,"skus":["SKU-5741","SKU-4827"],"subtotalCents":16695,"retry":0,"trace":"2a3bf4ec1f5b5e0b"}
+2026-11-17T04:36:53Z INFO sync order=HP-1260 warehouse=WH-59 items=1 status=ok ms=104
+2026-11-17T04:36:46Z DEBUG sync order=HP-1261 payload={"lines":2,"skus":["SKU-7265","SKU-5201"],"subtotalCents":20139,"retry":0,"trace":"1e330c231fd2de09"}
+2026-11-17T04:36:46Z INFO sync order=HP-1261 warehouse=WH-27 items=3 status=ok ms=309
+2026-11-17T04:37:23Z DEBUG sync order=HP-1262 payload={"lines":2,"skus":["SKU-4876","SKU-8450"],"subtotalCents":18972,"retry":0,"trace":"13daa517777c16"}
+2026-11-17T04:37:23Z INFO sync order=HP-1262 warehouse=WH-05 items=2 status=ok ms=209
+2026-11-17T04:37:08Z DEBUG sync order=HP-1263 payload={"lines":1,"skus":["SKU-1741","SKU-1712"],"subtotalCents":5178,"retry":0,"trace":"3b1486030cc4eac"}
+2026-11-17T04:37:08Z INFO sync order=HP-1263 warehouse=WH-10 items=5 status=ok ms=457
+2026-11-17T04:38:11Z DEBUG sync order=HP-1264 payload={"lines":2,"skus":["SKU-5753","SKU-8735"],"subtotalCents":12808,"retry":0,"trace":"f481aff5e4daf3"}
+2026-11-17T04:38:11Z INFO sync order=HP-1264 warehouse=WH-27 items=4 status=ok ms=321
+2026-11-17T04:39:59Z DEBUG sync order=HP-1265 payload={"lines":4,"skus":["SKU-1060","SKU-1855"],"subtotalCents":18611,"retry":0,"trace":"2524ad7a2ee2b5dd"}
+2026-11-17T04:39:59Z INFO sync order=HP-1265 warehouse=WH-49 items=1 status=ok ms=185
+2026-11-17T04:39:51Z DEBUG sync order=HP-1266 payload={"lines":5,"skus":["SKU-5360","SKU-2442"],"subtotalCents":9335,"retry":0,"trace":"2222658018261ac8"}
+2026-11-17T04:39:51Z INFO sync order=HP-1266 warehouse=WH-29 items=5 status=ok ms=372
+2026-11-17T04:40:02Z DEBUG sync order=HP-1267 payload={"lines":1,"skus":["SKU-9644","SKU-7305"],"subtotalCents":10637,"retry":0,"trace":"175dabc913af1780"}
+2026-11-17T04:40:02Z INFO sync order=HP-1267 warehouse=WH-14 items=2 status=ok ms=144
+2026-11-17T04:40:12Z DEBUG sync order=HP-1268 payload={"lines":4,"skus":["SKU-8318","SKU-9557"],"subtotalCents":9126,"retry":0,"trace":"277b34a287998a7"}
+2026-11-17T04:40:12Z INFO sync order=HP-1268 warehouse=WH-02 items=4 status=ok ms=142
+2026-11-17T04:41:18Z DEBUG sync order=HP-1269 payload={"lines":2,"skus":["SKU-4144","SKU-8372"],"subtotalCents":11167,"retry":0,"trace":"2c7b05ab30e2000b"}
+2026-11-17T04:41:18Z INFO sync order=HP-1269 warehouse=WH-48 items=2 status=ok ms=190
+2026-11-17T04:42:42Z DEBUG sync order=HP-1270 payload={"lines":3,"skus":["SKU-8857","SKU-6544"],"subtotalCents":4025,"retry":0,"trace":"b2c0260f53e415"}
+2026-11-17T04:42:42Z INFO sync order=HP-1270 warehouse=WH-28 items=4 status=ok ms=320
+2026-11-17T04:42:22Z DEBUG sync order=HP-1271 payload={"lines":5,"skus":["SKU-2316","SKU-1436"],"subtotalCents":20308,"retry":0,"trace":"16a497775c5baa1"}
+2026-11-17T04:42:22Z INFO sync order=HP-1271 warehouse=WH-59 items=4 status=ok ms=140
+2026-11-17T04:43:10Z DEBUG sync order=HP-1272 payload={"lines":5,"skus":["SKU-5252","SKU-7183"],"subtotalCents":7932,"retry":0,"trace":"1555c6182497caa3"}
+2026-11-17T04:43:10Z INFO sync order=HP-1272 warehouse=WH-35 items=1 status=ok ms=253
+2026-11-17T04:43:29Z DEBUG sync order=HP-1273 payload={"lines":3,"skus":["SKU-6836","SKU-5724"],"subtotalCents":17036,"retry":0,"trace":"1b376b022aef9c35"}
+2026-11-17T04:43:29Z INFO sync order=HP-1273 warehouse=WH-28 items=1 status=ok ms=281
+2026-11-17T04:44:34Z DEBUG sync order=HP-1274 payload={"lines":3,"skus":["SKU-3758","SKU-9017"],"subtotalCents":5837,"retry":0,"trace":"2c47cac13845bf5"}
+2026-11-17T04:44:34Z INFO sync order=HP-1274 warehouse=WH-39 items=6 status=ok ms=227
+2026-11-17T04:45:28Z DEBUG sync order=HP-1275 payload={"lines":5,"skus":["SKU-8566","SKU-4048"],"subtotalCents":19915,"retry":0,"trace":"a305bae2c263b02"}
+2026-11-17T04:45:28Z INFO sync order=HP-1275 warehouse=WH-57 items=4 status=ok ms=176
+2026-11-17T04:45:33Z DEBUG sync order=HP-1276 payload={"lines":2,"skus":["SKU-1608","SKU-5936"],"subtotalCents":17684,"retry":0,"trace":"1be5659938f735d"}
+2026-11-17T04:45:33Z INFO sync order=HP-1276 warehouse=WH-11 items=6 status=ok ms=390
+2026-11-17T04:46:50Z DEBUG sync order=HP-1277 payload={"lines":1,"skus":["SKU-5425","SKU-3055"],"subtotalCents":19743,"retry":0,"trace":"30ec818103369e9"}
+2026-11-17T04:46:50Z INFO sync order=HP-1277 warehouse=WH-13 items=3 status=ok ms=158
+2026-11-17T04:46:21Z DEBUG sync order=HP-1278 payload={"lines":2,"skus":["SKU-2445","SKU-7467"],"subtotalCents":12621,"retry":0,"trace":"297d35ec208aabf2"}
+2026-11-17T04:46:21Z INFO sync order=HP-1278 warehouse=WH-60 items=3 status=ok ms=258
+2026-11-17T04:47:33Z DEBUG sync order=HP-1279 payload={"lines":3,"skus":["SKU-4088","SKU-5027"],"subtotalCents":14003,"retry":0,"trace":"2eee78ae1c3aac54"}
+2026-11-17T04:47:33Z INFO sync order=HP-1279 warehouse=WH-57 items=2 status=ok ms=217
+2026-11-17T04:48:32Z DEBUG sync order=HP-1280 payload={"lines":4,"skus":["SKU-4835","SKU-3049"],"subtotalCents":7351,"retry":0,"trace":"64d30c7b3ea48"}
+2026-11-17T04:48:32Z INFO sync order=HP-1280 warehouse=WH-04 items=3 status=ok ms=130
+2026-11-17T04:48:51Z DEBUG sync order=HP-1281 payload={"lines":2,"skus":["SKU-3212","SKU-7663"],"subtotalCents":2106,"retry":0,"trace":"1d1bd7c92cd47df6"}
+2026-11-17T04:48:51Z INFO sync order=HP-1281 warehouse=WH-52 items=3 status=ok ms=217
+2026-11-17T04:49:27Z DEBUG sync order=HP-1282 payload={"lines":1,"skus":["SKU-6442","SKU-2876"],"subtotalCents":13552,"retry":0,"trace":"27501ff4119e7935"}
+2026-11-17T04:49:27Z INFO sync order=HP-1282 warehouse=WH-12 items=2 status=ok ms=458
+2026-11-17T04:49:12Z DEBUG sync order=HP-1283 payload={"lines":4,"skus":["SKU-6673","SKU-7973"],"subtotalCents":3123,"retry":0,"trace":"3531af63338dfaa9"}
+2026-11-17T04:49:12Z INFO sync order=HP-1283 warehouse=WH-56 items=4 status=ok ms=267
+2026-11-17T04:50:32Z DEBUG sync order=HP-1284 payload={"lines":3,"skus":["SKU-9045","SKU-7204"],"subtotalCents":4127,"retry":0,"trace":"14d8213b19566677"}
+2026-11-17T04:50:32Z INFO sync order=HP-1284 warehouse=WH-25 items=5 status=ok ms=290
+2026-11-17T04:51:34Z DEBUG sync order=HP-1285 payload={"lines":3,"skus":["SKU-3983","SKU-8300"],"subtotalCents":862,"retry":0,"trace":"2222b465ddd22b4"}
+2026-11-17T04:51:34Z INFO sync order=HP-1285 warehouse=WH-18 items=3 status=ok ms=452
+2026-11-17T04:51:55Z DEBUG sync order=HP-1286 payload={"lines":5,"skus":["SKU-2914","SKU-1557"],"subtotalCents":6841,"retry":0,"trace":"2f41a60d1b9d92e0"}
+2026-11-17T04:51:55Z INFO sync order=HP-1286 warehouse=WH-01 items=5 status=ok ms=230
+2026-11-17T04:52:08Z DEBUG sync order=HP-1287 payload={"lines":2,"skus":["SKU-1076","SKU-4216"],"subtotalCents":19708,"retry":0,"trace":"36eef0f168a240b"}
+2026-11-17T04:52:08Z INFO sync order=HP-1287 warehouse=WH-38 items=2 status=ok ms=153
+2026-11-17T04:52:41Z DEBUG sync order=HP-1288 payload={"lines":3,"skus":["SKU-4585","SKU-3169"],"subtotalCents":6090,"retry":0,"trace":"29fb23041d3420e1"}
+2026-11-17T04:52:41Z INFO sync order=HP-1288 warehouse=WH-41 items=5 status=ok ms=219
+2026-11-17T04:53:47Z DEBUG sync order=HP-1289 payload={"lines":3,"skus":["SKU-7483","SKU-9097"],"subtotalCents":17989,"retry":0,"trace":"10b7f7c8351f9758"}
+2026-11-17T04:53:47Z INFO sync order=HP-1289 warehouse=WH-31 items=6 status=ok ms=356
+2026-11-17T04:54:36Z DEBUG sync order=HP-1290 payload={"lines":3,"skus":["SKU-8994","SKU-9007"],"subtotalCents":19273,"retry":0,"trace":"1f4827d432c2814e"}
+2026-11-17T04:54:36Z INFO sync order=HP-1290 warehouse=WH-08 items=5 status=ok ms=173
+2026-11-17T04:54:34Z DEBUG sync order=HP-1291 payload={"lines":5,"skus":["SKU-2319","SKU-3487"],"subtotalCents":19840,"retry":0,"trace":"1ce7038310048ac0"}
+2026-11-17T04:54:34Z INFO sync order=HP-1291 warehouse=WH-46 items=1 status=ok ms=412
+2026-11-17T04:55:31Z DEBUG sync order=HP-1292 payload={"lines":2,"skus":["SKU-5648","SKU-6372"],"subtotalCents":17772,"retry":0,"trace":"bf2743f319c7298"}
+2026-11-17T04:55:31Z INFO sync order=HP-1292 warehouse=WH-42 items=6 status=ok ms=206
+2026-11-17T04:55:08Z DEBUG sync order=HP-1293 payload={"lines":2,"skus":["SKU-3719","SKU-2425"],"subtotalCents":8999,"retry":0,"trace":"5a0106f307aba4a"}
+2026-11-17T04:55:08Z INFO sync order=HP-1293 warehouse=WH-46 items=5 status=ok ms=315
+2026-11-17T04:56:50Z DEBUG sync order=HP-1294 payload={"lines":2,"skus":["SKU-2413","SKU-4409"],"subtotalCents":6509,"retry":0,"trace":"909d1b76e3cc89"}
+2026-11-17T04:56:50Z INFO sync order=HP-1294 warehouse=WH-24 items=4 status=ok ms=397
+2026-11-17T04:57:03Z DEBUG sync order=HP-1295 payload={"lines":5,"skus":["SKU-2969","SKU-3856"],"subtotalCents":6357,"retry":0,"trace":"362a2a403894e98a"}
+2026-11-17T04:57:03Z INFO sync order=HP-1295 warehouse=WH-07 items=2 status=ok ms=248
+2026-11-17T04:57:43Z DEBUG sync order=HP-1296 payload={"lines":1,"skus":["SKU-1625","SKU-8569"],"subtotalCents":7590,"retry":0,"trace":"19d456561937ebe4"}
+2026-11-17T04:57:43Z INFO sync order=HP-1296 warehouse=WH-26 items=3 status=ok ms=100
+2026-11-17T04:58:59Z DEBUG sync order=HP-1297 payload={"lines":1,"skus":["SKU-2492","SKU-8422"],"subtotalCents":6949,"retry":0,"trace":"64687139b0277"}
+2026-11-17T04:58:59Z INFO sync order=HP-1297 warehouse=WH-14 items=6 status=ok ms=171
+2026-11-17T04:58:22Z DEBUG sync order=HP-1298 payload={"lines":4,"skus":["SKU-3188","SKU-8313"],"subtotalCents":14475,"retry":0,"trace":"1a44f89e178044f4"}
+2026-11-17T04:58:22Z INFO sync order=HP-1298 warehouse=WH-02 items=1 status=ok ms=408
+2026-11-17T04:59:38Z DEBUG sync order=HP-1299 payload={"lines":5,"skus":["SKU-9905","SKU-8275"],"subtotalCents":1406,"retry":0,"trace":"f3adbee3b63b861"}
+2026-11-17T04:59:38Z INFO sync order=HP-1299 warehouse=WH-18 items=4 status=ok ms=177
+2026-11-17T05:00:51Z DEBUG sync order=HP-1300 payload={"lines":4,"skus":["SKU-8746","SKU-4642"],"subtotalCents":16632,"retry":0,"trace":"3b9080be28a8ffe0"}
+2026-11-17T05:00:51Z INFO sync order=HP-1300 warehouse=WH-34 items=6 status=ok ms=301
+2026-11-17T05:00:39Z DEBUG sync order=HP-1301 payload={"lines":1,"skus":["SKU-5509","SKU-7435"],"subtotalCents":14134,"retry":0,"trace":"3031fde922643826"}
+2026-11-17T05:00:39Z INFO sync order=HP-1301 warehouse=WH-44 items=4 status=ok ms=334
+2026-11-17T05:01:43Z DEBUG sync order=HP-1302 payload={"lines":5,"skus":["SKU-1884","SKU-1175"],"subtotalCents":1630,"retry":0,"trace":"214d19ee30eba2ce"}
+2026-11-17T05:01:43Z INFO sync order=HP-1302 warehouse=WH-04 items=3 status=ok ms=438
+2026-11-17T05:01:45Z DEBUG sync order=HP-1303 payload={"lines":2,"skus":["SKU-4021","SKU-7901"],"subtotalCents":13294,"retry":0,"trace":"442a96f9adc0e3"}
+2026-11-17T05:01:45Z INFO sync order=HP-1303 warehouse=WH-20 items=3 status=ok ms=150
+2026-11-17T05:02:08Z DEBUG sync order=HP-1304 payload={"lines":4,"skus":["SKU-6891","SKU-2073"],"subtotalCents":13773,"retry":0,"trace":"2cedc4c82d233bb5"}
+2026-11-17T05:02:08Z INFO sync order=HP-1304 warehouse=WH-40 items=6 status=ok ms=119
+2026-11-17T05:03:35Z DEBUG sync order=HP-1305 payload={"lines":5,"skus":["SKU-5847","SKU-4508"],"subtotalCents":9195,"retry":0,"trace":"2c93aa09138f3c7f"}
+2026-11-17T05:03:35Z INFO sync order=HP-1305 warehouse=WH-38 items=2 status=ok ms=317
+2026-11-17T05:03:17Z DEBUG sync order=HP-1306 payload={"lines":4,"skus":["SKU-2959","SKU-3498"],"subtotalCents":1226,"retry":0,"trace":"d101adf1fbad9cf"}
+2026-11-17T05:03:17Z INFO sync order=HP-1306 warehouse=WH-05 items=5 status=ok ms=227
+2026-11-17T05:04:21Z DEBUG sync order=HP-1307 payload={"lines":5,"skus":["SKU-3209","SKU-6240"],"subtotalCents":12546,"retry":0,"trace":"38ae42d91a3e3484"}
+2026-11-17T05:04:21Z INFO sync order=HP-1307 warehouse=WH-58 items=1 status=ok ms=331
+2026-11-17T05:04:10Z DEBUG sync order=HP-1308 payload={"lines":3,"skus":["SKU-1814","SKU-7410"],"subtotalCents":833,"retry":0,"trace":"39dd187a2849c731"}
+2026-11-17T05:04:10Z INFO sync order=HP-1308 warehouse=WH-32 items=1 status=ok ms=270
+2026-11-17T05:05:28Z DEBUG sync order=HP-1309 payload={"lines":1,"skus":["SKU-7282","SKU-8956"],"subtotalCents":5883,"retry":0,"trace":"1214b09ffa8bd73"}
+2026-11-17T05:05:28Z INFO sync order=HP-1309 warehouse=WH-49 items=3 status=ok ms=258
+2026-11-17T05:06:59Z DEBUG sync order=HP-1310 payload={"lines":2,"skus":["SKU-5548","SKU-5861"],"subtotalCents":9104,"retry":0,"trace":"6f127f53641abe2"}
+2026-11-17T05:06:59Z INFO sync order=HP-1310 warehouse=WH-31 items=2 status=ok ms=246
+2026-11-17T05:06:33Z DEBUG sync order=HP-1311 payload={"lines":3,"skus":["SKU-9383","SKU-7035"],"subtotalCents":3317,"retry":0,"trace":"363dea809318367"}
+2026-11-17T05:06:33Z WARN sync order=HP-1311 warehouse=WH-09 slow response, retrying
+2026-11-17T05:06:33Z ERROR sync order=HP-1311 warehouse=WH-09 status=failed reason="unknown SKU TENT-4P-OLV" attempt=1/1
+2026-11-17T05:07:29Z DEBUG sync order=HP-1312 payload={"lines":5,"skus":["SKU-9731","SKU-3200"],"subtotalCents":14030,"retry":0,"trace":"3da7287af050e4"}
+2026-11-17T05:07:29Z INFO sync order=HP-1312 warehouse=WH-52 items=4 status=ok ms=331
+2026-11-17T05:07:56Z DEBUG sync order=HP-1313 payload={"lines":4,"skus":["SKU-6620","SKU-9855"],"subtotalCents":7987,"retry":0,"trace":"1dee21329249afa"}
+2026-11-17T05:07:56Z INFO sync order=HP-1313 warehouse=WH-55 items=6 status=ok ms=448
+2026-11-17T05:08:19Z DEBUG sync order=HP-1314 payload={"lines":4,"skus":["SKU-8639","SKU-3027"],"subtotalCents":3700,"retry":0,"trace":"aa6e8ac6b3f192"}
+2026-11-17T05:08:19Z INFO sync order=HP-1314 warehouse=WH-02 items=6 status=ok ms=230
+2026-11-17T05:09:36Z DEBUG sync order=HP-1315 payload={"lines":5,"skus":["SKU-4142","SKU-9485"],"subtotalCents":13630,"retry":0,"trace":"19b37276234bbdc6"}
+2026-11-17T05:09:36Z INFO sync order=HP-1315 warehouse=WH-40 items=1 status=ok ms=390
+2026-11-17T05:09:08Z DEBUG sync order=HP-1316 payload={"lines":4,"skus":["SKU-2580","SKU-5612"],"subtotalCents":2573,"retry":0,"trace":"24588b28180c86e2"}
+2026-11-17T05:09:08Z INFO sync order=HP-1316 warehouse=WH-19 items=6 status=ok ms=383
+2026-11-17T05:10:38Z DEBUG sync order=HP-1317 payload={"lines":3,"skus":["SKU-8288","SKU-9521"],"subtotalCents":4376,"retry":0,"trace":"449a41c271adf4"}
+2026-11-17T05:10:38Z INFO sync order=HP-1317 warehouse=WH-18 items=6 status=ok ms=230
+2026-11-17T05:10:28Z DEBUG sync order=HP-1318 payload={"lines":5,"skus":["SKU-8455","SKU-9122"],"subtotalCents":19332,"retry":0,"trace":"16601dff15b82667"}
+2026-11-17T05:10:28Z INFO sync order=HP-1318 warehouse=WH-46 items=2 status=ok ms=203
+2026-11-17T05:11:36Z DEBUG sync order=HP-1319 payload={"lines":4,"skus":["SKU-2915","SKU-5906"],"subtotalCents":19971,"retry":0,"trace":"219264ac719f388"}
+2026-11-17T05:11:36Z INFO sync order=HP-1319 warehouse=WH-53 items=2 status=ok ms=457
+2026-11-17T05:12:46Z DEBUG sync order=HP-1320 payload={"lines":2,"skus":["SKU-5945","SKU-9786"],"subtotalCents":8051,"retry":0,"trace":"1b29332831fa515a"}
+2026-11-17T05:12:46Z INFO sync order=HP-1320 warehouse=WH-05 items=4 status=ok ms=136
+2026-11-17T05:12:35Z DEBUG sync order=HP-1321 payload={"lines":3,"skus":["SKU-4468","SKU-7662"],"subtotalCents":9774,"retry":0,"trace":"c88bb402e48e136"}
+2026-11-17T05:12:35Z INFO sync order=HP-1321 warehouse=WH-18 items=1 status=ok ms=314
+2026-11-17T05:13:22Z DEBUG sync order=HP-1322 payload={"lines":2,"skus":["SKU-7731","SKU-3894"],"subtotalCents":3064,"retry":0,"trace":"126f20162c086571"}
+2026-11-17T05:13:22Z INFO sync order=HP-1322 warehouse=WH-28 items=5 status=ok ms=254
+2026-11-17T05:13:34Z DEBUG sync order=HP-1323 payload={"lines":4,"skus":["SKU-8861","SKU-3054"],"subtotalCents":19934,"retry":0,"trace":"835f7652fa29751"}
+2026-11-17T05:13:34Z INFO sync order=HP-1323 warehouse=WH-21 items=4 status=ok ms=156
+2026-11-17T05:14:08Z DEBUG sync order=HP-1324 payload={"lines":3,"skus":["SKU-3394","SKU-6011"],"subtotalCents":16971,"retry":0,"trace":"26be93111566fbe"}
+2026-11-17T05:14:08Z INFO sync order=HP-1324 warehouse=WH-55 items=5 status=ok ms=331
+2026-11-17T05:15:42Z DEBUG sync order=HP-1325 payload={"lines":1,"skus":["SKU-5528","SKU-5909"],"subtotalCents":9172,"retry":0,"trace":"1de322937f423a7"}
+2026-11-17T05:15:42Z INFO sync order=HP-1325 warehouse=WH-37 items=5 status=ok ms=448
+2026-11-17T05:15:50Z DEBUG sync order=HP-1326 payload={"lines":4,"skus":["SKU-1645","SKU-2757"],"subtotalCents":9196,"retry":0,"trace":"134667c41526ee0"}
+2026-11-17T05:15:50Z INFO sync order=HP-1326 warehouse=WH-13 items=5 status=ok ms=255
+2026-11-17T05:16:38Z DEBUG sync order=HP-1327 payload={"lines":4,"skus":["SKU-5297","SKU-3965"],"subtotalCents":11932,"retry":0,"trace":"338aa2ef11e8013c"}
+2026-11-17T05:16:38Z INFO sync order=HP-1327 warehouse=WH-21 items=3 status=ok ms=206
+2026-11-17T05:16:10Z DEBUG sync order=HP-1328 payload={"lines":2,"skus":["SKU-8108","SKU-6191"],"subtotalCents":16413,"retry":0,"trace":"36d9b0761ca2484"}
+2026-11-17T05:16:10Z INFO sync order=HP-1328 warehouse=WH-45 items=5 status=ok ms=263
+2026-11-17T05:17:15Z DEBUG sync order=HP-1329 payload={"lines":2,"skus":["SKU-4279","SKU-3932"],"subtotalCents":10616,"retry":0,"trace":"3368e1c91cb3d02"}
+2026-11-17T05:17:15Z INFO sync order=HP-1329 warehouse=WH-41 items=5 status=ok ms=348
+2026-11-17T05:18:59Z DEBUG sync order=HP-1330 payload={"lines":2,"skus":["SKU-3474","SKU-8413"],"subtotalCents":8422,"retry":0,"trace":"1881844c11e6108d"}
+2026-11-17T05:18:59Z INFO sync order=HP-1330 warehouse=WH-41 items=3 status=ok ms=373
+2026-11-17T05:18:50Z DEBUG sync order=HP-1331 payload={"lines":1,"skus":["SKU-7484","SKU-5312"],"subtotalCents":1851,"retry":0,"trace":"c69bfcafb9b9ed"}
+2026-11-17T05:18:50Z INFO sync order=HP-1331 warehouse=WH-29 items=6 status=ok ms=328
+2026-11-17T05:19:30Z DEBUG sync order=HP-1332 payload={"lines":5,"skus":["SKU-2354","SKU-7227"],"subtotalCents":9488,"retry":0,"trace":"302d00eb3204c20a"}
+2026-11-17T05:19:30Z INFO sync order=HP-1332 warehouse=WH-30 items=5 status=ok ms=428
+2026-11-17T05:19:53Z DEBUG sync order=HP-1333 payload={"lines":5,"skus":["SKU-7696","SKU-4700"],"subtotalCents":8127,"retry":0,"trace":"112405fa81ca1b3"}
+2026-11-17T05:19:53Z INFO sync order=HP-1333 warehouse=WH-25 items=2 status=ok ms=89
+2026-11-17T05:20:56Z DEBUG sync order=HP-1334 payload={"lines":4,"skus":["SKU-3897","SKU-7846"],"subtotalCents":18501,"retry":0,"trace":"2d457564bff535"}
+2026-11-17T05:20:56Z INFO sync order=HP-1334 warehouse=WH-36 items=5 status=ok ms=305
+2026-11-17T05:21:13Z DEBUG sync order=HP-1335 payload={"lines":1,"skus":["SKU-8949","SKU-2088"],"subtotalCents":4000,"retry":0,"trace":"2f72b42b3531abb8"}
+2026-11-17T05:21:13Z INFO sync order=HP-1335 warehouse=WH-08 items=3 status=ok ms=131
+2026-11-17T05:21:28Z DEBUG sync order=HP-1336 payload={"lines":4,"skus":["SKU-7811","SKU-2367"],"subtotalCents":16487,"retry":0,"trace":"27c0b893987eac"}
+2026-11-17T05:21:28Z INFO sync order=HP-1336 warehouse=WH-09 items=1 status=ok ms=342
+2026-11-17T05:22:59Z DEBUG sync order=HP-1337 payload={"lines":3,"skus":["SKU-7436","SKU-6573"],"subtotalCents":17532,"retry":0,"trace":"3047f3bb1393f694"}
+2026-11-17T05:22:59Z INFO sync order=HP-1337 warehouse=WH-24 items=2 status=ok ms=157
+2026-11-17T05:22:47Z DEBUG sync order=HP-1338 payload={"lines":5,"skus":["SKU-3368","SKU-4329"],"subtotalCents":16119,"retry":0,"trace":"37ec1f0123aa5ff0"}
+2026-11-17T05:22:47Z INFO sync order=HP-1338 warehouse=WH-54 items=3 status=ok ms=188
+2026-11-17T05:23:20Z DEBUG sync order=HP-1339 payload={"lines":3,"skus":["SKU-1822","SKU-6121"],"subtotalCents":8734,"retry":0,"trace":"51e385b513842d"}
+2026-11-17T05:23:20Z INFO sync order=HP-1339 warehouse=WH-31 items=4 status=ok ms=415
+2026-11-17T05:24:41Z DEBUG sync order=HP-1340 payload={"lines":2,"skus":["SKU-2627","SKU-3965"],"subtotalCents":14177,"retry":0,"trace":"112a1ce53be6934"}
+2026-11-17T05:24:41Z INFO sync order=HP-1340 warehouse=WH-10 items=2 status=ok ms=179
+2026-11-17T05:24:57Z DEBUG sync order=HP-1341 payload={"lines":3,"skus":["SKU-3242","SKU-6611"],"subtotalCents":19722,"retry":0,"trace":"1a7a717a2d8a4ff5"}
+2026-11-17T05:24:57Z INFO sync order=HP-1341 warehouse=WH-55 items=2 status=ok ms=98
+2026-11-17T05:25:23Z DEBUG sync order=HP-1342 payload={"lines":2,"skus":["SKU-9020","SKU-6259"],"subtotalCents":14314,"retry":0,"trace":"2a7fa6c1c216c3d"}
+2026-11-17T05:25:23Z INFO sync order=HP-1342 warehouse=WH-54 items=2 status=ok ms=323
+2026-11-17T05:25:31Z DEBUG sync order=HP-1343 payload={"lines":2,"skus":["SKU-7954","SKU-9464"],"subtotalCents":10485,"retry":0,"trace":"523861439b3d2bd"}
+2026-11-17T05:25:31Z INFO sync order=HP-1343 warehouse=WH-53 items=4 status=ok ms=320
+2026-11-17T05:26:28Z DEBUG sync order=HP-1344 payload={"lines":3,"skus":["SKU-7534","SKU-8700"],"subtotalCents":12779,"retry":0,"trace":"3751e7a4cdd261a"}
+2026-11-17T05:26:28Z INFO sync order=HP-1344 warehouse=WH-28 items=4 status=ok ms=426
+2026-11-17T05:27:52Z DEBUG sync order=HP-1345 payload={"lines":4,"skus":["SKU-6990","SKU-3062"],"subtotalCents":14633,"retry":0,"trace":"d9e95d296b2a2c"}
+2026-11-17T05:27:52Z INFO sync order=HP-1345 warehouse=WH-12 items=6 status=ok ms=273
+2026-11-17T05:27:55Z DEBUG sync order=HP-1346 payload={"lines":2,"skus":["SKU-6331","SKU-3253"],"subtotalCents":6638,"retry":0,"trace":"16401e7e4cf4af6"}
+2026-11-17T05:27:55Z INFO sync order=HP-1346 warehouse=WH-21 items=4 status=ok ms=215
+2026-11-17T05:28:29Z DEBUG sync order=HP-1347 payload={"lines":3,"skus":["SKU-5061","SKU-2796"],"subtotalCents":5981,"retry":0,"trace":"1048f4b424442657"}
+2026-11-17T05:28:29Z INFO sync order=HP-1347 warehouse=WH-10 items=6 status=ok ms=214
+2026-11-17T05:28:04Z DEBUG sync order=HP-1348 payload={"lines":1,"skus":["SKU-5107","SKU-6279"],"subtotalCents":5526,"retry":0,"trace":"865547ba42ecaf"}
+2026-11-17T05:28:04Z INFO sync order=HP-1348 warehouse=WH-21 items=3 status=ok ms=449
+2026-11-17T05:29:36Z DEBUG sync order=HP-1349 payload={"lines":3,"skus":["SKU-4896","SKU-5816"],"subtotalCents":8069,"retry":0,"trace":"2a583c673a0780"}
+2026-11-17T05:29:36Z INFO sync order=HP-1349 warehouse=WH-31 items=2 status=ok ms=209
+2026-11-17T05:30:58Z DEBUG sync order=HP-1350 payload={"lines":4,"skus":["SKU-4375","SKU-9513"],"subtotalCents":15861,"retry":0,"trace":"3b4b4ed429297392"}
+2026-11-17T05:30:58Z INFO sync order=HP-1350 warehouse=WH-58 items=1 status=ok ms=111
+2026-11-17T05:30:01Z DEBUG sync order=HP-1351 payload={"lines":2,"skus":["SKU-1623","SKU-9420"],"subtotalCents":9589,"retry":0,"trace":"36d669d2f4ad2e4"}
+2026-11-17T05:30:01Z INFO sync order=HP-1351 warehouse=WH-11 items=3 status=ok ms=286
+2026-11-17T05:31:18Z DEBUG sync order=HP-1352 payload={"lines":1,"skus":["SKU-9834","SKU-5975"],"subtotalCents":14065,"retry":0,"trace":"1cfa7ee3251bbf7d"}
+2026-11-17T05:31:18Z INFO sync order=HP-1352 warehouse=WH-13 items=4 status=ok ms=424
+2026-11-17T05:31:47Z DEBUG sync order=HP-1353 payload={"lines":1,"skus":["SKU-3208","SKU-3104"],"subtotalCents":3970,"retry":0,"trace":"3b7baf0cea3ef54"}
+2026-11-17T05:31:47Z INFO sync order=HP-1353 warehouse=WH-05 items=2 status=ok ms=218
+2026-11-17T05:32:17Z DEBUG sync order=HP-1354 payload={"lines":1,"skus":["SKU-3985","SKU-9893"],"subtotalCents":12075,"retry":0,"trace":"479fde9e6b258d"}
+2026-11-17T05:32:17Z INFO sync order=HP-1354 warehouse=WH-09 items=5 status=ok ms=205
+2026-11-17T05:33:30Z DEBUG sync order=HP-1355 payload={"lines":1,"skus":["SKU-4753","SKU-9652"],"subtotalCents":16499,"retry":0,"trace":"1fddcf42311b6ccf"}
+2026-11-17T05:33:30Z INFO sync order=HP-1355 warehouse=WH-50 items=5 status=ok ms=97
+2026-11-17T05:33:42Z DEBUG sync order=HP-1356 payload={"lines":2,"skus":["SKU-1259","SKU-2774"],"subtotalCents":8644,"retry":0,"trace":"ca294983855e984"}
+2026-11-17T05:33:42Z INFO sync order=HP-1356 warehouse=WH-51 items=6 status=ok ms=149
+2026-11-17T05:34:07Z DEBUG sync order=HP-1357 payload={"lines":3,"skus":["SKU-6841","SKU-4520"],"subtotalCents":9373,"retry":0,"trace":"5e606d1281daf0b"}
+2026-11-17T05:34:07Z INFO sync order=HP-1357 warehouse=WH-43 items=2 status=ok ms=294
+2026-11-17T05:34:28Z DEBUG sync order=HP-1358 payload={"lines":5,"skus":["SKU-5977","SKU-3503"],"subtotalCents":18750,"retry":0,"trace":"305179f3f463db8"}
+2026-11-17T05:34:28Z INFO sync order=HP-1358 warehouse=WH-43 items=3 status=ok ms=261
+2026-11-17T05:35:46Z DEBUG sync order=HP-1359 payload={"lines":1,"skus":["SKU-3184","SKU-2356"],"subtotalCents":7514,"retry":0,"trace":"9cc7f251e696de8"}
+2026-11-17T05:35:46Z INFO sync order=HP-1359 warehouse=WH-30 items=1 status=ok ms=125
+2026-11-17T05:36:19Z DEBUG sync order=HP-1360 payload={"lines":2,"skus":["SKU-7417","SKU-2609"],"subtotalCents":17638,"retry":0,"trace":"2ebd041526c95c62"}
+2026-11-17T05:36:19Z INFO sync order=HP-1360 warehouse=WH-39 items=4 status=ok ms=261
+2026-11-17T05:36:03Z DEBUG sync order=HP-1361 payload={"lines":5,"skus":["SKU-9979","SKU-8478"],"subtotalCents":14389,"retry":0,"trace":"18e161582596889c"}
+2026-11-17T05:36:03Z INFO sync order=HP-1361 warehouse=WH-48 items=2 status=ok ms=285
+2026-11-17T05:37:22Z DEBUG sync order=HP-1362 payload={"lines":2,"skus":["SKU-5164","SKU-9139"],"subtotalCents":12754,"retry":0,"trace":"224c0d530242623"}
+2026-11-17T05:37:22Z INFO sync order=HP-1362 warehouse=WH-13 items=4 status=ok ms=225
+2026-11-17T05:37:28Z DEBUG sync order=HP-1363 payload={"lines":5,"skus":["SKU-8392","SKU-7001"],"subtotalCents":9817,"retry":0,"trace":"3872dcea26cac7dd"}
+2026-11-17T05:37:28Z INFO sync order=HP-1363 warehouse=WH-54 items=5 status=ok ms=291
+2026-11-17T05:38:57Z DEBUG sync order=HP-1364 payload={"lines":1,"skus":["SKU-2615","SKU-9096"],"subtotalCents":14499,"retry":0,"trace":"2bbae1992b10a0e2"}
+2026-11-17T05:38:57Z INFO sync order=HP-1364 warehouse=WH-60 items=1 status=ok ms=227
+2026-11-17T05:39:40Z DEBUG sync order=HP-1365 payload={"lines":2,"skus":["SKU-3548","SKU-2474"],"subtotalCents":1930,"retry":0,"trace":"23bb038083d8cf0"}
+2026-11-17T05:39:40Z INFO sync order=HP-1365 warehouse=WH-15 items=6 status=ok ms=345
+2026-11-17T05:39:35Z DEBUG sync order=HP-1366 payload={"lines":4,"skus":["SKU-1036","SKU-7262"],"subtotalCents":7058,"retry":0,"trace":"1e09f72a191414b6"}
+2026-11-17T05:39:35Z INFO sync order=HP-1366 warehouse=WH-50 items=4 status=ok ms=342
+2026-11-17T05:40:13Z DEBUG sync order=HP-1367 payload={"lines":2,"skus":["SKU-4302","SKU-9897"],"subtotalCents":9175,"retry":0,"trace":"37ac979e1d264145"}
+2026-11-17T05:40:13Z INFO sync order=HP-1367 warehouse=WH-17 items=6 status=ok ms=355
+2026-11-17T05:40:54Z DEBUG sync order=HP-1368 payload={"lines":5,"skus":["SKU-1483","SKU-4599"],"subtotalCents":8407,"retry":0,"trace":"1cbad43638038a4a"}
+2026-11-17T05:40:54Z INFO sync order=HP-1368 warehouse=WH-15 items=2 status=ok ms=183
+2026-11-17T05:41:02Z DEBUG sync order=HP-1369 payload={"lines":5,"skus":["SKU-9111","SKU-7341"],"subtotalCents":15019,"retry":0,"trace":"24bb5a781b17df24"}
+2026-11-17T05:41:02Z INFO sync order=HP-1369 warehouse=WH-56 items=2 status=ok ms=390
+2026-11-17T05:42:52Z DEBUG sync order=HP-1370 payload={"lines":3,"skus":["SKU-2169","SKU-3600"],"subtotalCents":17651,"retry":0,"trace":"21df142d2d2b908"}
+2026-11-17T05:42:52Z INFO sync order=HP-1370 warehouse=WH-20 items=1 status=ok ms=388
+2026-11-17T05:42:38Z DEBUG sync order=HP-1371 payload={"lines":3,"skus":["SKU-3898","SKU-7332"],"subtotalCents":11700,"retry":0,"trace":"2028e86b22230f2"}
+2026-11-17T05:42:38Z INFO sync order=HP-1371 warehouse=WH-03 items=1 status=ok ms=414
+2026-11-17T05:43:10Z DEBUG sync order=HP-1372 payload={"lines":1,"skus":["SKU-6010","SKU-5905"],"subtotalCents":2110,"retry":0,"trace":"7f39b97b5a6aab"}
+2026-11-17T05:43:10Z INFO sync order=HP-1372 warehouse=WH-48 items=3 status=ok ms=236
+2026-11-17T05:43:06Z DEBUG sync order=HP-1373 payload={"lines":1,"skus":["SKU-3757","SKU-8415"],"subtotalCents":13380,"retry":0,"trace":"90bd4de2543355"}
+2026-11-17T05:43:06Z INFO sync order=HP-1373 warehouse=WH-50 items=4 status=ok ms=209
+2026-11-17T05:44:11Z DEBUG sync order=HP-1374 payload={"lines":3,"skus":["SKU-2130","SKU-5368"],"subtotalCents":19962,"retry":0,"trace":"d065f9f392d7700"}
+2026-11-17T05:44:11Z INFO sync order=HP-1374 warehouse=WH-15 items=1 status=ok ms=213
+2026-11-17T05:45:39Z DEBUG sync order=HP-1375 payload={"lines":2,"skus":["SKU-6706","SKU-7038"],"subtotalCents":16523,"retry":0,"trace":"34256bd31c167bae"}
+2026-11-17T05:45:39Z INFO sync order=HP-1375 warehouse=WH-46 items=1 status=ok ms=192
+2026-11-17T05:45:20Z DEBUG sync order=HP-1376 payload={"lines":1,"skus":["SKU-1428","SKU-7345"],"subtotalCents":8756,"retry":0,"trace":"31d187a82b799e09"}
+2026-11-17T05:45:20Z INFO sync order=HP-1376 warehouse=WH-26 items=5 status=ok ms=431
+2026-11-17T05:46:20Z DEBUG sync order=HP-1377 payload={"lines":5,"skus":["SKU-6891","SKU-7086"],"subtotalCents":4686,"retry":0,"trace":"31f9461340058c8"}
+2026-11-17T05:46:20Z INFO sync order=HP-1377 warehouse=WH-43 items=5 status=ok ms=225
+2026-11-17T05:46:45Z DEBUG sync order=HP-1378 payload={"lines":3,"skus":["SKU-2817","SKU-9753"],"subtotalCents":17242,"retry":0,"trace":"db845745ba7c01"}
+2026-11-17T05:46:45Z INFO sync order=HP-1378 warehouse=WH-21 items=6 status=ok ms=422
+2026-11-17T05:47:40Z DEBUG sync order=HP-1379 payload={"lines":5,"skus":["SKU-7264","SKU-1275"],"subtotalCents":10980,"retry":0,"trace":"20411d69122d1cf8"}
+2026-11-17T05:47:40Z INFO sync order=HP-1379 warehouse=WH-57 items=1 status=ok ms=406
+2026-11-17T05:48:07Z DEBUG sync order=HP-1380 payload={"lines":3,"skus":["SKU-2709","SKU-3844"],"subtotalCents":7186,"retry":0,"trace":"39d8a5242db03a52"}
+2026-11-17T05:48:07Z INFO sync order=HP-1380 warehouse=WH-40 items=4 status=ok ms=297
+2026-11-17T05:48:09Z DEBUG sync order=HP-1381 payload={"lines":4,"skus":["SKU-3881","SKU-9931"],"subtotalCents":4922,"retry":0,"trace":"2ae93e55675b2b1"}
+2026-11-17T05:48:09Z INFO sync order=HP-1381 warehouse=WH-54 items=4 status=ok ms=279
+2026-11-17T05:49:22Z DEBUG sync order=HP-1382 payload={"lines":5,"skus":["SKU-3048","SKU-8776"],"subtotalCents":17897,"retry":0,"trace":"b3c87d300e00db"}
+2026-11-17T05:49:22Z INFO sync order=HP-1382 warehouse=WH-38 items=6 status=ok ms=208
+2026-11-17T05:49:32Z DEBUG sync order=HP-1383 payload={"lines":3,"skus":["SKU-2108","SKU-5518"],"subtotalCents":2122,"retry":0,"trace":"1f1e19ca38f5517a"}
+2026-11-17T05:49:32Z INFO sync order=HP-1383 warehouse=WH-12 items=4 status=ok ms=81
+2026-11-17T05:50:37Z DEBUG sync order=HP-1384 payload={"lines":4,"skus":["SKU-6469","SKU-5195"],"subtotalCents":19853,"retry":0,"trace":"c6ca3de3906a34f"}
+2026-11-17T05:50:37Z INFO sync order=HP-1384 warehouse=WH-36 items=5 status=ok ms=319
+2026-11-17T05:51:21Z DEBUG sync order=HP-1385 payload={"lines":1,"skus":["SKU-5046","SKU-8881"],"subtotalCents":13033,"retry":0,"trace":"17460f9637fa3512"}
+2026-11-17T05:51:21Z INFO sync order=HP-1385 warehouse=WH-21 items=6 status=ok ms=143
+2026-11-17T05:51:24Z DEBUG sync order=HP-1386 payload={"lines":3,"skus":["SKU-5741","SKU-4233"],"subtotalCents":4169,"retry":0,"trace":"2c1af1e128e2fd75"}
+2026-11-17T05:51:24Z INFO sync order=HP-1386 warehouse=WH-32 items=1 status=ok ms=226
+2026-11-17T05:52:59Z DEBUG sync order=HP-1387 payload={"lines":5,"skus":["SKU-3066","SKU-6541"],"subtotalCents":13486,"retry":0,"trace":"dda6d67255ad4f1"}
+2026-11-17T05:52:59Z INFO sync order=HP-1387 warehouse=WH-30 items=3 status=ok ms=202
+2026-11-17T05:52:11Z DEBUG sync order=HP-1388 payload={"lines":4,"skus":["SKU-1919","SKU-1496"],"subtotalCents":16180,"retry":0,"trace":"38a7f23237e1b931"}
+2026-11-17T05:52:11Z INFO sync order=HP-1388 warehouse=WH-14 items=3 status=ok ms=132
+2026-11-17T05:53:14Z DEBUG sync order=HP-1389 payload={"lines":4,"skus":["SKU-2334","SKU-6082"],"subtotalCents":2629,"retry":0,"trace":"14443da12b952a97"}
+2026-11-17T05:53:14Z INFO sync order=HP-1389 warehouse=WH-36 items=3 status=ok ms=270
+2026-11-17T05:54:11Z DEBUG sync order=HP-1390 payload={"lines":2,"skus":["SKU-5517","SKU-8450"],"subtotalCents":8778,"retry":0,"trace":"3b3b11e93b8baa67"}
+2026-11-17T05:54:11Z INFO sync order=HP-1390 warehouse=WH-21 items=3 status=ok ms=314
+2026-11-17T05:54:42Z DEBUG sync order=HP-1391 payload={"lines":4,"skus":["SKU-8101","SKU-6951"],"subtotalCents":15549,"retry":0,"trace":"5afb701272a598b"}
+2026-11-17T05:54:42Z INFO sync order=HP-1391 warehouse=WH-24 items=1 status=ok ms=238
+2026-11-17T05:55:56Z DEBUG sync order=HP-1392 payload={"lines":3,"skus":["SKU-6265","SKU-8937"],"subtotalCents":10888,"retry":0,"trace":"3b601b338db13a"}
+2026-11-17T05:55:56Z INFO sync order=HP-1392 warehouse=WH-33 items=4 status=ok ms=414
+2026-11-17T05:55:33Z DEBUG sync order=HP-1393 payload={"lines":3,"skus":["SKU-4530","SKU-7172"],"subtotalCents":13486,"retry":0,"trace":"20b450602fbf95cd"}
+2026-11-17T05:55:33Z INFO sync order=HP-1393 warehouse=WH-09 items=2 status=ok ms=395
+2026-11-17T05:56:03Z DEBUG sync order=HP-1394 payload={"lines":5,"skus":["SKU-3262","SKU-5629"],"subtotalCents":5885,"retry":0,"trace":"1b2c8b102866cbf7"}
+2026-11-17T05:56:03Z INFO sync order=HP-1394 warehouse=WH-60 items=2 status=ok ms=107
+2026-11-17T05:57:25Z DEBUG sync order=HP-1395 payload={"lines":3,"skus":["SKU-2314","SKU-6646"],"subtotalCents":19084,"retry":0,"trace":"10f719b82d1efa93"}
+2026-11-17T05:57:25Z INFO sync order=HP-1395 warehouse=WH-20 items=5 status=ok ms=247
+2026-11-17T05:57:08Z DEBUG sync order=HP-1396 payload={"lines":1,"skus":["SKU-8852","SKU-7177"],"subtotalCents":1953,"retry":0,"trace":"25806802380fe5c"}
+2026-11-17T05:57:08Z INFO sync order=HP-1396 warehouse=WH-52 items=2 status=ok ms=337
+2026-11-17T05:58:45Z DEBUG sync order=HP-1397 payload={"lines":4,"skus":["SKU-5591","SKU-2649"],"subtotalCents":16387,"retry":0,"trace":"17fc7286e83ba2f"}
+2026-11-17T05:58:45Z INFO sync order=HP-1397 warehouse=WH-46 items=5 status=ok ms=358
+2026-11-17T05:58:43Z DEBUG sync order=HP-1398 payload={"lines":5,"skus":["SKU-8153","SKU-3124"],"subtotalCents":17807,"retry":0,"trace":"3a65023c8450957"}
+2026-11-17T05:58:43Z INFO sync order=HP-1398 warehouse=WH-19 items=4 status=ok ms=299
+2026-11-17T05:59:08Z DEBUG sync order=HP-1399 payload={"lines":2,"skus":["SKU-7686","SKU-7092"],"subtotalCents":3039,"retry":0,"trace":"22ac3f74190538ad"}
+2026-11-17T05:59:08Z INFO sync order=HP-1399 warehouse=WH-12 items=1 status=ok ms=366

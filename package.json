@@ -1,0 +1,6 @@
+{
+  "name": "harbor-pine-context",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
